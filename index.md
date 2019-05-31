@@ -11,7 +11,7 @@ I am a PHD Student at <a href="https://uci.edu/" target="_blank">University of C
 and my advisor is Prof.<a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank">Iftehkar Ahmed</a>.
 
 <br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">Ford Motor Company</a>.
+Previously, I worked at <a href="https://www.ford.com/" target="_blank">Ford Motor Company</a>.
 
 <br />
 My research interest is in ......
