@@ -4,7 +4,7 @@ title: Me in the Nutshell
 description: "Jirigesi's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: mountain.jpg
 ---
 
 I am a PHD Student at <a href="https://research.google.com" target="_blank">University of California, Irvine</a>
