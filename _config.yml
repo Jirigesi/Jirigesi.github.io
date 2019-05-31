@@ -10,8 +10,8 @@ disqus_shortname: Jirigesi
 owner:
   name:           Jiri Gesi
   avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  bio:            CS. PHD Student. Software Engineering. AI. Infra. 
+  email:          jirigesi@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jirigesi
   linkedin: jirigesi
@@ -31,7 +31,7 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Code
+  - title: Project
     url: /code/
   - title: Blog
     url: /blog/
