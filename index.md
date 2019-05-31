@@ -7,7 +7,7 @@ image:
   feature: mountain.jpg
 ---
 
-I am a PHD Student at <a href="https://research.google.com" target="_blank">University of California, Irvine</a>
+I am a PHD Student at <a href="https://uci.edu/" target="_blank">University of California, Irvine</a>
 and my advisor is Prof.<a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank">Iftehkar Ahmed</a>.
 
 <br />
