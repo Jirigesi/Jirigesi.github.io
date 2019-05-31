@@ -14,4 +14,4 @@ and my advisor is Prof.<a href="https://scholar.google.com/citations?user=_TdMD7
 Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">Ford Motor Company</a>.
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
+My research interest is in ......
