@@ -8,7 +8,7 @@ image:
 ---
 
 I am a PHD Student at <a href="https://research.google.com" target="_blank">University of California, Irvine</a>
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
+and my advisor is <a href="http://www.vilynx.com/index.html" target="_blank">Iftehkar Ahmed</a>.
 
 <br />
 Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
