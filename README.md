@@ -5,7 +5,7 @@ This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minima
 
 ## License
 
-Feel free to adapt this theme to your site without linking back to me or including a disclaimer, although letting me know would be nice. ;) 
+Feel free to adapt this theme to your site without linking back to me or including a disclaimer.
 
 ## To run it locally
 ```
