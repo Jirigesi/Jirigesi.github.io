@@ -4,7 +4,7 @@ title: Me in the Nutshell
 description: "Jirigesi's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: mountain.jpg
+  feature: Panoramic.jpg
 ---
 
 I am a PHD Student in Department of Donald Bren School of Information and Computer Sciences in <a href="https://uci.edu/" target="_blank">University of California, Irvine</a>
