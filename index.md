@@ -17,6 +17,7 @@ Previously, I worked as a Machine Learning Engineer in DevOps Team in <a href="h
 
 <br />
 I received Master Degree of Software Engineering from University of Michigan, and my Bachelor Degree of Engineering from Xi'an Jiao Tong University. 
+
 <br />
 
 Welocme to my website!
