@@ -7,8 +7,9 @@ image:
   feature: Panoramic.jpg
 ---
 
-I am a PHD Student in Department of Donald Bren School of Information and Computer Sciences in <a href="https://uci.edu/" target="_blank">University of California, Irvine</a>
+I am a P.H.D Student in Department of Donald Bren School of Information and Computer Sciences in <a href="https://uci.edu/" target="_blank">University of California, Irvine</a>
 and my advisor is Prof.<a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank">Iftehkar Ahmed</a>.
+
 <br /> 
 My research mainly focus on utilizing Artificial Intellegence to optimize Software Engineering/system infrastructure performance. 
 
