@@ -14,7 +14,7 @@ and my advisor is Prof. <a href="https://scholar.google.com/citations?user=_TdMD
 My research mainly focus on utilizing Artificial Intellegence to optimize Software Engineering/system infrastructure performance. 
 
 <br />
-Previously, I was working as a Machine Learning Engineer in <a href="https://www.ford.com/" target="_blank">Ford Innovation Center</a> for two years.
+Previously, I was working as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a> for two years.
 
 <br />
 I received Master Degree of Software Engineering from University of Michigan, and my Bachelor Degree of Engineering from Xi'an Jiao Tong University. 
