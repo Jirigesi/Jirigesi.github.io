@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Me in the Nutshell
+title: Me in a Nutshell
 description: "Jirigesi's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
