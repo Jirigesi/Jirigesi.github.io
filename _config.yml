@@ -37,7 +37,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    America/Mazatlan
 future:      true
 #pygments:    true
 highlighter: rouge
