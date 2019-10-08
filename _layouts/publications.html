@@ -14,13 +14,9 @@
      *********************************/
 /* The list of items */
 .biblist { }
-
 /* The item */
 .biblist li { }
-
 /* You can define custom styles for plstyle field here. */
-
-
 /*************************************
  The box that contain BibTeX code
  *************************************/
@@ -49,6 +45,266 @@ div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;
     }
 -->
     </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+
+
+<h4 style="margin-bottom:0px;padding-top:10px;">Top-Tier Journal Publications</h4>
+<!-- Generated from JabRef by PubList by Truong Nghiem at 11:44 on 2015.09.10. -->
+<ul class="biblist">
+<!-- Item: Maninis2018b -->
+<li ><p>
+<a href="http://www.vision.ee.ethz.ch/~kmaninis" target="_blank">K.K. Maninis</a>, <a href="https://sergicaelles.com/" target="_blank">S. Caelles</a>, <a href="http://www.vision.ee.ethz.ch/~yuhchen/" target="_blank">Y. Chen</a>, J. Pont-Tuset, <a href="https://lealtaixe.github.io" target="_blank">L. Leal-Taixé</a>, 
+<a href="http://vision.in.tum.de/members/cremers" target="_blank">D. Cremers</a>, and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">L. Van Gool</a>
+<br><b>Video Object Segmentation Without Temporal Information</b><br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, 2018.
+<br />
+<a href="javascript:toggleBibtex('Maninis2018c')">[BibTeX]</a>
+<a href="https://arxiv.org/pdf/1709.06031" target="_blank">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos-s/"  target="_blank">[Project Page]</a>
+</p>
+<div id="bib_Maninis2018c" class="bibtex noshow">
+<pre>
+@Article{Maninis2018c,
+  author = {K.K. Maninis and S. Caelles and Y. Chen and J. Pont-Tuset and L. Leal-Taix\'e and D. Cremers and L. {Van Gool},
+  title = {Video Object Segmentation Without Temporal Information},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year = {2018}
+}
+</pre>
+</div>
+</li>
+
+
+<!-- Item: Maninis2018 -->
+<li ><p>
+<a href="http://www.vision.ee.ethz.ch/~kmaninis" target="_blank">K.K. Maninis</a>, J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a> and <a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">L. Van Gool</a><br><b>Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks</b><br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>, vol. 40, no. 4, pp. 819 - 833, 2018.
+<br />
+<a href="javascript:toggleBibtex('Maninis2018')">[BibTeX]</a>
+<a href="http://arxiv.org/abs/1701.04658" target="_blank">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/"  target="_blank">[Project Page]</a>
+</p>
+<div id="bib_Maninis2018" class="bibtex noshow">
+<pre>
+@article{Maninis2018,
+  author = {Maninis, Kevis-Kokitsi and Pont-Tuset, Jordi and Arbel&aacute;ez, Pablo and {Van Gool}, Luc},
+  title = {Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year = {2018},
+  volume = {40},
+  number = {4},
+  pages = {819 - 833}
+}
+</pre>
+</div>
+</li>
+
+
+    <!-- Item: Pont-Tuset2017 -->
+    <li ><p>
+    J. Pont-Tuset, <a href="https://biomedicalcomputervision.uniandes.edu.co" target="_blank">P. Arbeláez</a>, <a href="http://www.cs.berkeley.edu/~barron/" target="_blank">J. Barron</a>, <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>, and <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">J. Malik</a>
+    <br><b>Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation</b><br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
+vol. 39,
+no. 1,
+pp. 128 - 140,
+
+2017.
+
+<br />
+    <a href="javascript:toggleBibtex('Pont-Tuset2017')">[BibTeX]</a>
+    <a href="http://ieeexplore.ieee.org/document/7423791/" target="_blank">[PDF]</a> <a href="http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/" target="_blank">
+    [Project Page]</a>
+</p>
+<div id="bib_Pont-Tuset2017" class="bibtex noshow">
+<pre>
+@article{Pont-Tuset2017,
+  author = {J. Pont-Tuset and P. Arbel\'{a}ez and J. Barron and F.Marques and J. Malik},
+  title = {Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year = {2017},
+  volume = {39},
+  number = {1},
+  pages = {128 - 140}
+}
+</pre>
+</div>
+</li>
+
+
+<!-- Item: Pont-Tuset2016a -->
+<li ><p>
+J. Pont-Tuset and <a href="https://imatge.upc.edu/web/ferran" target="_blank">F. Marques</a>
+<br><b>Supervised Evaluation of Image Segmentation and Object Proposal Techniques</b><br>
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i>,
+vol. 38,
+no. 7,
+pp. 1465-1478,
+
+2016.
+
+<br />
+<a href="javascript:toggleBibtex('Pont-Tuset2016a')">[BibTeX]</a>
+<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7274729" target="_blank">[PDF]</a> <a href="http://www.vision.ee.ethz.ch/~cvlsegmentation/seism/index.html" target="_blank">
+[Project Page]</a> 
+</p>
+<div id="bib_Pont-Tuset2016a" class="bibtex noshow">
+<pre>
+@article{Pont-Tuset2016a,
+  author = {Jordi Pont-Tuset and Ferran Marques},
+  title = {Supervised Evaluation of Image Segmentation and Object Proposal Techniques},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year = {2016},
+  volume = {38},
+  number = {7},
+  pages = {1465--1478}
+}
+</pre>
+</div>
+</li>  
+
+
+      </ul  >
+
+
+
+
+
+
+<h4 style="margin-bottom:0px;padding-top:10px;">Patents</h4>
+
+<!-- Generated from JabRef by PubList by Truong Nghiem at 10:08 on 2017.01.16. -->
+<ul class="biblist">
+
+<!-- Item: Farre2017 -->
+<li ><p>
+<a href="https://ch.linkedin.com/in/miquelangelfarre" target="_blank">M. Farr&eacute; Guiu</a>,
+M. Junyent,
+J. Pont-Tuset,
+P. Beltran, N. Narayan, L. Sigal,
+<a href="https://www.linkedin.com/in/aljosa-smolic-3a26644?" target="_blank">A. Smolic</a>,   
+and A. M. Accardo<br>
+<b>Metadata extraction and management</b><br>
+US 2017/0109419 A1, 2017.
+
+
+<br />
+<a href="javascript:toggleBibtex('Farre2017')">[BibTeX]</a>
+<a href="http://www.freepatentsonline.com/20170109419.pdf" target="_blank">[PDF]</a>
+
+
+</p>
+<div id="bib_Farre2017" class="bibtex noshow">
+<pre>
+@patent{Farre2017,
+  author = {M. Farr\'{e} and M. Junyent and J. Pont-Tuset and P. Beltran and N. Narayan and L. Sigal and A. Smolic and A. M. Accardo},
+  title = {Metadata extraction and management},
+  year = {2017},
+  number = {US 2017/0109419 A1}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: Smolic2017 -->
+<li ><p>
+<a href="https://www.linkedin.com/in/aljosa-smolic-3a26644?" target="_blank">A. Smolic</a>, M. Junyent, J. Pont-Tuset,  
+<a href="https://achapiro.github.io" target="_blank">A. Chapiro</a>
+and <a href="https://ch.linkedin.com/in/miquelangelfarre" target="_blank">M. Farr&eacute; Guiu</a><br>
+<b>Systems and Methods for Automatic Key Frame Extraction and Storyboard Interface Generation for Video</b><br>
+US 2017/0011264 A1, 2017.
+
+
+<br />
+<a href="javascript:toggleBibtex('Smolic2017')">[BibTeX]</a>
+<a href="http://www.freepatentsonline.com/20170011264.pdf" target="_blank">[PDF]</a>
+
+
+</p>
+<div id="bib_Smolic2017" class="bibtex noshow">
+<pre>
+@patent{Smolic2017,
+  author = {A. Smolic and M. Junyent and J. Pont-Tuset and A. Chapiro and M. Farr\'{e}},
+  title = {Systems and methods for automatic key frame extraction and storyboard interface generation for video},
+  year = {2017},
+  number = {US 2017/0011264 A1}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item:  -->
+<li ><p><a href="https://www.linkedin.com/in/aljosa-smolic-3a26644?" target="_blank">A. Smolic</a>,
+J. Pont-Tuset, and
+<a href="https://ch.linkedin.com/in/miquelangelfarre" target="_blank">M. Farr&eacute; Guiu</a><br>
+<b>Video Object Tagging Using Segmentation Hierarchy</b><br>
+US 2016/0313894 A1, 2016.
+
+
+<br />
+<a href="javascript:toggleBibtex('')">[BibTeX]</a><a href="http://www.freepatentsonline.com/20160313894.pdf" target="_blank">[PDF]</a>
+
+
+
+
+
+</p>
+<div id="bib_" class="bibtex noshow">
+<pre>
+@patent{Smolic2016,
+  author = {Aljoscha Smolic and Jordi Pont-Tuset and Farre Guiu, Angel},
+  title = {Video Object Tagging Using Segmentation Hierarchy},
+  year = {2016},
+  number = {US 2016/0313894 A1}
+}
+</pre></div>
+</li>
+</ul>
+
+
+
+      
+
+
+
+
+
+<h4 style="margin-bottom:0px;padding-top:20px;">Top-Tier Vision Conference Publications</h4>
+
+    <ul class="biblist">
+
+
+
 
 
 
