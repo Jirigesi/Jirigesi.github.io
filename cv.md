@@ -7,5 +7,4 @@ modified: 6-3-2019
 comments: false
 ---
 
-You can also download my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
-
+my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
