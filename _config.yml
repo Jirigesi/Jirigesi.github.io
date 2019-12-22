@@ -10,17 +10,14 @@ disqus_shortname: Jirigesi
 owner:
   name:           Jiri Gesi
   avatar:         jiri.png
-  bio:            CS | Ph.D. Student | AI | Software Engineering | Infrastructure 
+  bio:            CS | Ph.D. Student | AI | Software Engineering
   email:          jirigesi@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jirigesi
   linkedin: jirigesi
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
+  google_scholar:
   github: jirigesi
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
-google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -44,7 +41,7 @@ highlighter: rouge
 markdown:    kramdown
 kramdown:
   extensions: ["strikethrough"]
-  
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
