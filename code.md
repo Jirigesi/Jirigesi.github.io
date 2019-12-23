@@ -9,5 +9,6 @@ comments: false
 
 ### Selected Projects
 
-* [**Convolutional Oriented Boundaries**](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)<br>
-State of the art in contour detection, hierarchical segmentation, and object proposals. Runs in 700 miliseconds on a GPU and a single CPU thread, thanks to a novel sparse representation of the segmentation results. From our ECCV 2016 paper.
+* [**Implemented Dynamic Feature in Authorizer Android Application **](https://github.com/Jirigesi/authorizer)<br>
+Google Play’s app serving model, called Dynamic Delivery, uses Android App Bundles to generate and serve optimized APKs for each user’s device configuration, so users download only the code and resources they need to run your app. You no longer have to build, sign, and manage multiple APKs to support different devices, and users get smaller, more optimized downloads.
+I refactored the App Authorizer, so that it could achieve Dynamic Delivery in Google Play.  
