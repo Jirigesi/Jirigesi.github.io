@@ -21,4 +21,4 @@ My research focuses on the interaction of two fields:
 - Machine learning systems that can automatically identify underlying patterns in sequential data, such as programming language and natural language.
 - Software engineering tasks that can help developers develop software faster with less bugs.
 
-At UCI, I work with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> from <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction.  
+At UCI, I work with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> in <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction using deep learning techniques.  
