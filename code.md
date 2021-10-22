@@ -9,4 +9,17 @@ comments: false
 
 ### Selected Projects
 
-* **Code clone detection** <br>
+* **Code clone detection** 
+
+<br>
+
+---
+
+* **Bug lifetime prediction** 
+
+<br>
+
+---
+* **Software Defect prediction** 
+
+<br>
