@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 
-2022 Summer Internship: Open to ML/AI research or software development internship. Please reach out! 
+2022 Summer Internship: **Open to ML/AI research/development or software development internship. Please reach out!**
 
 <br />
 
@@ -14,7 +14,7 @@ My name is Jiri Gesi (Гиллигс in Mongolian, **吉日格斯** in Chinese).
 
 <br />
 
-I specialize in mining data and leverage machine learning techniques to design and build machine learning systems for outlier detection, classification, recurrent neural networks, graph neural networks. 
+I specialize in mining data and leverage machine learning techniques to design and build machine learning systems for outlier detection, classification, recurrent neural networks, graph neural networks and etc. 
 
 My research focuses on the interaction of two fields:
 
