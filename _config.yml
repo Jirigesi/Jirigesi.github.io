@@ -1,4 +1,4 @@
-title:            Jiri Gesi's site
+title:            Jiri Gesi
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //Jirigesi.github.io
@@ -10,7 +10,7 @@ disqus_shortname: Jirigesi
 owner:
   name:           Jiri Gesi
   avatar:         jiri.png
-  bio:            CS | Ph.D. Student | AI | Software Engineering
+  bio:            CS | Ph.D. Student | AI | Software Engineering | Performance Optimization
   email:          jirigesi@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jirigesi
