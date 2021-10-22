@@ -6,16 +6,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 
-I am a first year Ph.D. Student in Department of Donald Bren School of Information and Computer Sciences in <a href="https://uci.edu/" target="_blank">University of California, Irvine</a>
-and my advisor is Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank">Iftekhar Ahmed</a>.
+
+Jiri is currently a Research Assistant at the Software Engineering & Testing Using Artificial Intelligence for Reliable Software (STAIRS) lab within the ICS department at UC Irvine. He works with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank">Iftekhar Ahmed</a> in Department of Donald Bren School of Information and Computer Sciences in <a href="https://uci.edu/" target="_blank">University of California, Irvine</a> 
 
 <br />
-My research mainly interested in <b> Software Engineering, Machine Learning, Search Based Software Engineering</b>.
 
-<br />
-Previously, I was working as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
+His main research interests are Software Engineering for Machine Learning (SE4ML), Machine Learning for Software Engineering (ML4SE), Natural Language Analysis, Mutation Analysis, and Program Analysis. 
 
-<br />
-I received Master Degree of Software Engineering from University of Michigan, and Bachelor Degree of Engineering from Xi'an Jiao Tong University.
 
-<br />
