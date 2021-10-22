@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Biography
+title: About Me
 description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 
@@ -10,7 +10,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-My name is Jiri Gesi (吉日格斯 in Chinese). I am a third year Ph.D. student at Donal Bren School, University of California, Irvine - one of the best school for software engineering research based on CS Ranking. Before join UCI, I was a Machine Learning Engineer in Ford, USA. 
+My name is Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese). I am a third year Ph.D. student at Donal Bren School, University of California, Irvine - one of the best school for software engineering research based on CS Ranking. Before join UCI, I was a Machine Learning Engineer in Ford, USA. 
 
 <br />
 
