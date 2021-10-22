@@ -1,0 +1,250 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Jiri Gesi's site  &#8211; CVPR 2015: Is deep learning in fashion? Scraping vision papers </title>
+<meta name="description" content="CVPR 2015: Is deep learning in fashion? Scraping vision papers.">
+<meta name="keywords" content="">
+<!-- Twitter Cards -->
+	
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:image" content=
+			
+				
+						"http://localhost:5000/images/"
+				
+			
+		>
+	
+	<meta name="twitter:title" content="CVPR 2015: Is deep learning in fashion? Scraping vision papers">
+	<meta name="twitter:description" content="CVPR 2015: Is deep learning in fashion? Scraping vision papers.">
+	<meta name="twitter:creator" content="@jirigesi">
+
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="CVPR 2015: Is deep learning in fashion? Scraping vision papers">
+<meta property="og:description" content="CVPR 2015: Is deep learning in fashion? Scraping vision papers.">
+<meta property="og:url" content="http://localhost:5000/deep-learning-scraping/">
+<meta property="og:site_name" content="Jiri Gesi's site">
+
+
+
+
+
+<link rel="canonical" href="http://localhost:5000/deep-learning-scraping/">
+<link href="http://localhost:5000/feed.xml" type="application/atom+xml" rel="alternate" title="Jiri Gesi's site Feed">
+
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:5000/assets/css/main.min.css">
+<link rel="stylesheet" href="http://localhost:5000/assets/academicons.css" />
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://localhost:5000/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://localhost:5000/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://localhost:5000/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+<link rel="shortcut icon" href="http://localhost:5000/favicon.ico">
+<link rel="shortcut icon" href="http://localhost:5000/favicon.png">
+
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="http://localhost:5000/images/apple-icon-precomposed.png">
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://localhost:5000">Jiri Gesi's site</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://localhost:5000/cv/" >Curriculum</a></li>
+		        
+				<li><a href="http://localhost:5000/publications/" >Publications</a></li>
+		        
+				<li><a href="http://localhost:5000/code/" >Project</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+	<img src="http://localhost:5000/images/jiri.png" class="bio-photo" alt="Jiri Gesi bio photo"></a>
+
+<h3>Jiri Gesi</h3>
+<p>CS | Ph.D. Student | AI | Software Engineering</p>
+<a href="http://twitter.com/jirigesi" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+
+<a href="http://linkedin.com/in/jirigesi" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
+
+<a href="http://github.com/jirigesi" class="author-social" target="_blank"><i class="fa fa-github-square"></i> Github</a>
+
+<a href="mailto:jirigesi@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> e-Mail</a>
+
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      
+        <h1><a href="http://localhost:5000/deep-learning-scraping/" rel="bookmark" title="CVPR 2015: Is deep learning in fashion? Scraping vision papers">CVPR 2015: Is deep learning in fashion? Scraping vision papers</a></h1>
+      
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p>It is quite obvious that so-called deep learning is in fashion, especially in some fields of computer vision. In this post we would like to quantitatively evaluate whether this assertion is indeed true, and learn to do web scraping on the way.
+<br />
+<br />
+<a href="http://en.wikipedia.org/wiki/Web_scraping">Web Scraping</a> consist in extracting useful information from websites by a computer program. In this post I’ll show a very basic example of web scraping written in Python in order to get the titles of the Computer Vision papers available in the open access repository of <a href="http://www.cv-foundation.org/openaccess/menu.py">CVF</a>. We will then count the number of title with <em>deep-learning-related</em> words in them.
+<br />
+<br />
+Maybe web scraping is an overkill for this example, but it might come in handy for other applications.
+First you’ll need to install these dependencies: <a href="http://lxml.de">lxml</a>, 
+<a href="http://docs.python-requests.org">Python requests</a>, and for more advanced examples <a href="http://www.crummy.com/software/BeautifulSoup/">Beautiful soup</a>.
+<br />
+<br />
+And here the code:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">from</span> <span class="nn">lxml</span> <span class="kn">import</span> <span class="n">html</span>
+
+<span class="n">conferences</span> <span class="o">=</span> <span class="p">[</span><span class="s">"CVPR2013"</span><span class="p">,</span><span class="s">"ICCV2013"</span><span class="p">,</span><span class="s">"CVPR2014"</span><span class="p">,</span><span class="s">"CVPR2015"</span><span class="p">]</span>
+
+<span class="k">for</span> <span class="n">conf</span> <span class="ow">in</span> <span class="n">conferences</span><span class="p">:</span>
+    <span class="c1"># Get the HTML text and find the classes of type 'ptitle'
+</span>    <span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="p">.</span><span class="n">get</span><span class="p">(</span><span class="s">"http://www.cv-foundation.org/openaccess/"</span><span class="o">+</span><span class="n">conf</span><span class="o">+</span><span class="s">".py"</span><span class="p">)</span>
+    <span class="n">tree</span> <span class="o">=</span> <span class="n">html</span><span class="p">.</span><span class="n">fromstring</span><span class="p">(</span><span class="n">response</span><span class="p">.</span><span class="n">text</span><span class="p">)</span>
+    <span class="n">papers</span> <span class="o">=</span> <span class="n">tree</span><span class="p">.</span><span class="n">find_class</span><span class="p">(</span><span class="s">'ptitle'</span><span class="p">)</span>
+
+    <span class="c1"># Get all titles in a list
+</span>    <span class="n">all_titles</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">paper</span> <span class="ow">in</span> <span class="n">papers</span><span class="p">:</span>
+        <span class="n">title</span> <span class="o">=</span> <span class="n">paper</span><span class="p">.</span><span class="n">xpath</span><span class="p">(</span><span class="s">'a/text()'</span><span class="p">)</span>
+        <span class="n">all_titles</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">title</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+
+    <span class="c1"># Search for the 'deep'-inducing keywords
+</span>    <span class="n">keywords</span> <span class="o">=</span> <span class="p">[</span><span class="s">'deep'</span><span class="p">,</span> <span class="s">'cnn'</span><span class="p">,</span> <span class="s">'convolutional'</span><span class="p">,</span> <span class="s">'neural network'</span><span class="p">]</span>
+    <span class="n">count</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="k">for</span> <span class="n">title</span> <span class="ow">in</span> <span class="n">all_titles</span><span class="p">:</span>
+        <span class="k">for</span> <span class="n">kword</span> <span class="ow">in</span> <span class="n">keywords</span><span class="p">:</span>
+            <span class="k">if</span> <span class="n">title</span><span class="p">.</span><span class="n">lower</span><span class="p">().</span><span class="n">find</span><span class="p">(</span><span class="n">kword</span><span class="p">)</span><span class="o">&gt;=</span><span class="mi">0</span><span class="p">:</span>
+                <span class="n">count</span> <span class="o">=</span> <span class="n">count</span><span class="o">+</span><span class="mi">1</span>
+                <span class="k">break</span>
+    <span class="n">percent</span> <span class="o">=</span> <span class="n">count</span><span class="o">/</span><span class="nb">float</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">all_titles</span><span class="p">))</span><span class="o">*</span><span class="mi">100</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"%s: %.2f%%"</span> <span class="o">%</span> <span class="p">(</span><span class="n">conf</span><span class="p">,</span> <span class="n">percent</span><span class="p">))</span></code></pre></figure>
+
+<p>As you can see, we scrape four of the last major vision conferences. From the respective websites, we get all titles (class <code class="highlighter-rouge">ptitle</code>), and then we count whether they have <em>deep-learning-related</em> words in them.
+And here the results:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="o">&gt;</span> <span class="n">python</span> <span class="n">scraping_cvpr</span><span class="p">.</span><span class="n">py</span>
+<span class="n">CVPR2013</span><span class="p">:</span>  <span class="mf">0.85</span><span class="o">%</span>
+<span class="n">ICCV2013</span><span class="p">:</span>  <span class="mf">1.54</span><span class="o">%</span>
+<span class="n">CVPR2014</span><span class="p">:</span>  <span class="mf">3.70</span><span class="o">%</span>
+<span class="n">CVPR2015</span><span class="p">:</span> <span class="mf">14.45</span><span class="o">%</span></code></pre></figure>
+
+<p>And the plot:
+<br />
+<br />
+<img align="middle" src="http://localhost:5000/images/deep_learning.png" alt="..." />
+<br />
+<br />
+Quite impressive, right? So remember to put some of these words on the title of your next CVPR submission. :)</p>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          
+	<img src="http://localhost:5000/images/jiri.png" class="bio-photo" alt="Jiri Gesi bio photo"></a>
+
+<h3>Jiri Gesi</h3>
+<p>CS | Ph.D. Student | AI | Software Engineering</p>
+<a href="http://twitter.com/jirigesi" class="author-social" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a>
+
+<a href="http://linkedin.com/in/jirigesi" class="author-social" target="_blank"><i class="fa fa-linkedin-square"></i> LinkedIn</a>
+
+<a href="http://github.com/jirigesi" class="author-social" target="_blank"><i class="fa fa-github-square"></i> Github</a>
+
+<a href="mailto:jirigesi@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> e-Mail</a>
+
+
+        </div>
+        <p class="byline"><strong>CVPR 2015: Is deep learning in fashion? Scraping vision papers</strong> was published on <time datetime="2015-05-27T00:00:00-06:00">May 27, 2015</time> by <a href="http://localhost:5000" title="About Jiri Gesi">Jiri Gesi</a>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <footer>
+    <span>&copy; 2021 Jiri Gesi.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:5000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:5000/assets/js/scripts.min.js"></script>
+
+
+  
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'Jirigesi'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+	        
+
+</body>
+</html>

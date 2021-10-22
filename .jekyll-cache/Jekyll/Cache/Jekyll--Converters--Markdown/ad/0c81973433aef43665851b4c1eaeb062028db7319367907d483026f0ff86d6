@@ -1,0 +1,25 @@
+I"»<hr />
+<hr />
+
+<h1 id="papers">Papers</h1>
+
+<p>The papers are listed by publication category in reverse chronological order. These papers are provided under the 
+copyright permission for non-commercial dissemination of scholarly and technical work.</p>
+
+<hr />
+<hr />
+
+<h2 id="2021">2021</h2>
+<ul>
+  <li>
+    <h4 id="an-empirical-examination-of-the-impact-of-bias-on-just-in-time-defect-prediction">An Empirical Examination of the Impact of Bias on Just-in-time Defect Prediction</h4>
+    <p>Paulo Anselmo da Mota Silveira Neto, Umme Ayda Mannan, Eduardo Santana de Almeida, Nachiappan Nagappan, David Lo, Pavneet Singh Kochhar, Cuiyun Gao and Iftekhar Ahmed</p>
+    <h6 id="tse-2021">TSE 2021</h6>
+  </li>
+  <li>
+    <h4 id="pynose-a-test-smell-detector-for-python">PyNose: A Test Smell Detector For Python</h4>
+    <p>Tongjie Wang, Yaroslav Golubev, Oleg, Jiawei Li, Timofey Bryksin, Iftekhar Ahmed</p>
+    <h6 id="ase-2021">ASE 2021</h6>
+  </li>
+</ul>
+:ET
