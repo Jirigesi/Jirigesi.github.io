@@ -33,5 +33,5 @@ copyright permission for non-commercial dissemination of scholarly and technical
 * #### Personalized Web Services Interface Design Using Interactive Computational Search
   **Jiri Gesi**
   
-  <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140766/Thesis%20Report__Fun%20Jirigesi.pdf?sequence=1" target="_blank" style="color:rgb(255,128,0)">**PDF**</a>
+  <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140766/Thesis%20Report__Fun%20Jirigesi.pdf?sequence=1" target="_blank" style="color:rgb(255,128,0)">**Paper**</a>
   ###### Master's thesis 
