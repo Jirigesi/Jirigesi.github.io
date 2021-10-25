@@ -23,7 +23,7 @@ University of California, Irvine
 - ### M.S. in Computer Science, 2016 - 2017
 University of Michigan
 
-- ### B.S. in Engineering, 2016 - 2017
+- ### B.S. in Engineering, 2012 - 2017
 Xi'an Jiao Tong University
 
 <br />
