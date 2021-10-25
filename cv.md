@@ -11,7 +11,7 @@ comments: false
 my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
 
 <br />
-Previously, I was working as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
+Previously, Jiri worked as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
 
 _______
 
@@ -23,7 +23,7 @@ University of California, Irvine
 - ### M.S. in Computer Science, 2016 - 2017
 University of Michigan
 
-- ### B.S. in Engineering, 2012 - 2017
+- ### B.S. in Engineering, 2012 - 2016
 Xi'an Jiao Tong University
 
 <br />
