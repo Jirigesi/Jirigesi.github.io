@@ -15,7 +15,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: jirigesi
   linkedin: jirigesi
-  google_scholar:
+  google_scholar: https://scholar.google.com/citations?user=pZTCjMsAAAAJ&hl=en
   github: jirigesi
 # Analytics and webmaster tools stuff goes here
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
