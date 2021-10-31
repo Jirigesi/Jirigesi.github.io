@@ -12,7 +12,15 @@ my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">f
 
 <br />
 Previously, Jiri worked as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
+_______
+## Professional Service
 
+### Paper reviewer
+- Empirical Software Engineering Journal, 2021
+
+### Student volunteer
+- The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis, July 11 – 17, 2020
+- The 42nd International Conference on Software Engineering, June 24, 2020 – July 16, 2020
 _______
 
 ## Education
