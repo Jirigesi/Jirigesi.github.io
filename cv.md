@@ -15,17 +15,6 @@ Previously, Jiri worked as a Machine Learning Engineer in <a href="https://corpo
 
 _______
 
-## Professional Service
-
-### Paper reviewer
-- Empirical Software Engineering Journal, 2021
-
-### Student volunteer
-- The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis, July 11 – 17, 2020
-- The 42nd International Conference on Software Engineering, June 24, 2020 – July 16, 2020
-
-_______
-
 ## Education
 
 - ### Ph.D. Student in Software Engineering, 2019 - 2023
@@ -37,6 +26,23 @@ University of Michigan
 - ### B.S. in Engineering, 2012 - 2016
 Xi'an Jiao Tong University
 
+_______
+
+## Professional Service
+
+### Paper reviewer
+- Empirical Software Engineering Journal, 2021
+
+### Student volunteer
+- The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis, July 11 – 17, 2020
+- The 42nd International Conference on Software Engineering, June 24, 2020 – July 16, 2020
+
+_______
+
+## Awards
+
+- Dean's Awards from Donald Bren School of Information and Computer Sciences, 2019
+- Outstanding Master student's thesis, University of Michigan (2017)
+- Siyuan Scholarship, Xi’an Jiao Tong University, China (2013, 2014, 2015)
+
 <br />
-
-
