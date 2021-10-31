@@ -13,6 +13,7 @@ my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">f
 <br />
 Previously, Jiri worked as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
 _______
+
 ## Professional Service
 
 ### Paper reviewer
