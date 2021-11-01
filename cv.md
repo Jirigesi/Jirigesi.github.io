@@ -8,10 +8,7 @@ comments: false
 ---
 
 <br />
-my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
-
-<br />
-Previously, Jiri worked as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
+Before joining UC Irivine, Jiri was working as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
 
 _______
 
@@ -44,5 +41,9 @@ _______
 - Dean's Awards from Donald Bren School of Information and Computer Sciences,UC Irvine,  2019
 - Outstanding Master student's thesis, University of Michigan, 2017
 - Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
+
+<br />
+
+my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
 
 <br />
