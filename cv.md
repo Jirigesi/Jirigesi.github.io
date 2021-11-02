@@ -44,6 +44,13 @@ _______
 
 <br />
 
+## Teaching assistant courses
+
+- INF 115: Software Testing, Analysis, and Quality Assurance, UC Irvine, 2020
+- INF 43:  Introduction to Software Engineering, UC Irvine, 2020
+
+<br />
+
 my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
 
 <br />
