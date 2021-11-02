@@ -1,0 +1,27 @@
+I"G<h3 id="selected-projects">Selected Projects</h3>
+
+<ul>
+  <li><strong>Code clone detection</strong></li>
+</ul>
+
+<p><img src="images/code_clone.png" alt="code_clone" title="Code Clone" /></p>
+
+<p>We investigate whether using representation learning of code snippets can help develop a much more efficient and objective feature vector for codes, which contain the semantic information required for detection of more complex code clones. Feeding possibly long code snippets to a neural network, in a way they can be processed efficiently and understood completely, can be very tricky. For this project, we developed an encoder meant to generate latent representations conditioned on code snippets for the purpose of detecting whether two code snippets are clones. Our results suggest that this approach has considerable potential in detecting code clones.
+Read more <a href="./files/CS295_Project.pdf">here</a>
+<br /></p>
+
+<hr />
+
+<ul>
+  <li><strong>Bug lifetime prediction</strong></li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+<ul>
+  <li><strong>Software Defect prediction</strong></li>
+</ul>
+
+<p><br /></p>
+:ET

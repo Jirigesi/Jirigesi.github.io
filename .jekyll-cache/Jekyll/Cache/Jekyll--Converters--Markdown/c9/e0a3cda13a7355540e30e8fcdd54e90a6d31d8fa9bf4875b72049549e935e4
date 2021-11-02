@@ -1,0 +1,25 @@
+I"~<h3 id="selected-projects">Selected Projects</h3>
+
+<ul>
+  <li><strong>Code clone detection</strong></li>
+</ul>
+
+<p><img src="images/code_clone.png" alt="code_clone" title="Code Clone" /></p>
+
+<p><br /></p>
+
+<hr />
+
+<ul>
+  <li><strong>Bug lifetime prediction</strong></li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+<ul>
+  <li><strong>Software Defect prediction</strong></li>
+</ul>
+
+<p><br /></p>
+:ET
