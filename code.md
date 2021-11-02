@@ -11,6 +11,8 @@ comments: false
 
 * **Code clone detection** 
 
+![alt text](images/jirigesi.png "Title")
+
 <br>
 
 ---
