@@ -42,7 +42,7 @@ _______
 - Outstanding Master student's thesis, University of Michigan, 2017
 - Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
 
-<br />
+_______
 
 ## Teaching assistant courses
 
