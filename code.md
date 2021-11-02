@@ -20,7 +20,7 @@ Read more [here](./files/CS295_Project.pdf)
 ---
 * **Software defect prediction bias mitigation** 
 
-![code_clone](schema.png "Code Clone")
+![defect prediction bias](schema.png "defect prediction bias")
 
 Aims: We aim to explore the impact of different commit related characteristic’s imbalance on DL defect prediction. Method: We investigated different characteristic’s impact on the overall performance of DeepJIT and CC2Vec. We also propose a Siamese network based few-shot learning framework for JIT defect prediction (SifterJIT) combining Siamese network and DeepJIT. Results: Our results show that DeepJIT and CC2Vec lose out on the performance by around 20% when trained and tested on imbalanced data. However, SifterJIT can outperform state-of-the-art DL techniques with an average of 8.65% AUC score, 11% precision, and 6% F1-score improvement. Conclusions: Our results highlight that dataset imbalanced in terms of commit characteristics can significantly impact prediction performance, and few-shot learning based techniques can help alleviate the situation. 
 <br>
