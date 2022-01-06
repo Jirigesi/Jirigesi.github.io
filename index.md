@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 
-2022 Summer Internship: **Open to ML/AI research/development or software development internship. Please reach out!**
+
 
 <br />
 
