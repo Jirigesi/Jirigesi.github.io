@@ -11,8 +11,9 @@ comments: false
 
 <!-- 2022 Summer Internship: **Open to ML/AI research/development or software development internship. Please reach out!** -->
 
-I will do Applied Scientist Internship in Amazon A9 company during summer 2022. 
+I will do Applied Scientist Internship in Amazon A9 (Search Science and AI) team during summer 2022. 
 
+---
 
 Before joining UC Irivine, Jiri was working as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
 
