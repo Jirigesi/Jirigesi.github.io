@@ -7,11 +7,6 @@ modified: 10-01-2021
 comments: false
 ---
 
-<br />
-
-<!-- 2022 Summer Internship: **Open to ML/AI research/development or software development internship. Please reach out!** -->
-
-I will do Applied Scientist Internship in Amazon A9 (Search Science and AI) team during summer 2022. 
 
 ---
 
