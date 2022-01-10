@@ -19,7 +19,7 @@ My research focuses on the interaction of two fields:
 - Machine learning systems can be used to automatically identify underlying patterns in sequential data, such as programming and natural language.
 - Software engineering tasks that can help programmers use fewer resources to develop higher-quality software
 
-At UCI, I work with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> in <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction using deep learning techniques.  
+At UC Irvine, I work with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> in <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction using deep learning techniques.  
 
 <br />
 
@@ -32,7 +32,5 @@ At UCI, I work with Prof. <a href="https://scholar.google.com/citations?user=_Td
 - 03/2021 Our paper **"Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis"** is accepted in QRS 2021
 - 01/2021 Jiri got **PhD research fellowship funding** from **eBay** for 2021
 - 09/2019 Jiri is awarded **2019 Chair’s Award** from Donald Bren School of Information and Computer Sciences Department
-
-<br />
 
 ---
