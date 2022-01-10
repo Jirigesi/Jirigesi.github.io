@@ -26,11 +26,11 @@ At UCI, I work with Prof. <a href="https://scholar.google.com/citations?user=_Td
 ---
 ### News
 
-- 01/2022 Jiri got research fellowship funding from eBay for 2022
+- 01/2022 Jiri got PhD research fellowship funding from eBay for 2022
 - 12/2021 Jiri will do 2022 Summer Applied Scientist Intern in Amazon A9 (Search Science and AI)
 - 04/2021 Our paper "An Empirical Examination of the Impact of Bias on Just-in-time Defect Prediction" is accepted in ESEM 2021
 - 03/2021 Our paper "Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis" is accepted in QRS 2021
-- 01/2021 Jiri got eBay's research fellowship funding for 2021
+- 01/2021 Jiri got PhD research fellowship funding from eBay for 2021
 - 09/2019 Jiri is awarded "2019 Dean’s Awards from Donald Bren School of Information and Computer Sciences"
 
 <br />
