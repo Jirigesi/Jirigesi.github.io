@@ -8,7 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-My name is Jiri Gesi (Гиллигс in Mongolian, **吉日格斯** in Chinese). I am a Ph.D. candidate at <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a> - one of the top schools in Software Engineering researches according to <a href="http://csrankings.org/#/index?soft&us" style="color:rgb(255,128,0)">*csRanking.org*</a>. Before joining UC Irvine, I was a Machine Learning Engineer at Ford, USA. 
+My name is Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese). I am a Ph.D. candidate at <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a> - one of the top schools in Software Engineering researches according to <a href="http://csrankings.org/#/index?soft&us" style="color:rgb(255,128,0)">*csRanking.org*</a>. Before joining UC Irvine, I was a Machine Learning Engineer at Ford, USA. 
 
 <br />
 
