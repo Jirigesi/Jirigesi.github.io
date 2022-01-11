@@ -8,7 +8,8 @@ comments: false
 ---
 
 
----
+________
+_______
 
 Before joining UC Irivine, Jiri was working as a Machine Learning Engineer in <a href="https://corporate.ford.com/careers/silicon-valley.html" target="_blank">Ford Innovation Center</a>.
 
