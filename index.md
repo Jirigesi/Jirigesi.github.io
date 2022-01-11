@@ -34,3 +34,5 @@ At UC Irvine, I work with Prof. <a href="https://scholar.google.com/citations?us
 - 09/2019 Jiri is awarded **2019 Chair’s Award** from Donald Bren School of Information and Computer Sciences Department
 
 ---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwangzheallen.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
