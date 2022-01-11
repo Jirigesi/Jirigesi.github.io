@@ -7,6 +7,9 @@ modified: 10-1-2021
 comments: false
 ---
 
+________
+_______
+
 ### Selected Projects
 
 * **Code clone detection** 
@@ -30,5 +33,4 @@ Aims: We aim to explore the impact of different commit related characteristic’
 * **Bug report lifetime prediction** 
 
 <br>
-
-
+`
