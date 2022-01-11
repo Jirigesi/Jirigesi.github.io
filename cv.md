@@ -16,7 +16,7 @@ _______
 
 ## Education
 
-- ### Ph.D. Student in Software Engineering, 2019 - 2023
+- ### Ph.D. in Software Engineering, 2019 - 2023
 University of California, Irvine
 
 - ### M.S. in Computer Science, 2016 - 2017
