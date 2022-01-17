@@ -8,18 +8,18 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-My name is Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese). I am a Ph.D. candidate at <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a> - one of the top schools in Software Engineering researches according to <a href="http://csrankings.org/#/index?soft&us" style="color:rgb(255,128,0)">*csRanking.org*</a>. Before joining UC Irvine, I was a Machine Learning Engineer at Ford, USA. 
+Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese). is Ph.D. candidate at <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a> - one of the top schools in Software Engineering researches according to <a href="http://csrankings.org/#/index?soft&us" style="color:rgb(255,128,0)">*csRanking.org*</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
 
 <br />
 
-I specialize in mining data and leveraging machine learning techniques to design and build machine learning systems. I have experience in outlier detection, classification, recurrent neural networks, graph neural networks and etc. 
+He specialize in mining data and leveraging machine learning techniques to design and build machine learning systems. He has experience in outlier detection, classification, recurrent neural networks, graph neural networks and etc. 
 
-My research focuses on the interaction of two fields:
+His research focuses on the interaction of two fields:
 
 - Machine learning systems can be used to automatically identify underlying patterns in sequential data, such as programming and natural language.
 - Software engineering tasks that can help programmers use fewer resources to develop higher-quality software
 
-At UC Irvine, I work with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> in <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction using deep learning techniques.  
+At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> in <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction using deep learning techniques.  
 
 <br />
 
