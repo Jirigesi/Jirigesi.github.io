@@ -28,8 +28,8 @@ _______
 
 
 Amazon Science             | --- |        eBay                | --- |         Ford
-Palo Alto, CA              | --- |        San Jose, CA        | --- |        Lincoln Park, MI
 :-------------------------:| --- |:-------------------------: | --- | :-------------------------:
+Palo Alto, CA              | --- |        San Jose, CA        | --- |        Lincoln Park, MI
 <img src=./images/amazon.png width="200"> | --- |   <img src=./images/EBay_logo.png width="200"> | --- |  <img src=./images/ford-logo.png width="200">
 Research Intern            | --- |        Reasercher          | --- |       Machine Learning Engineer
 Summer 2022                | --- |        2021 - Now          | --- |        2019
