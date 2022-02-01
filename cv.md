@@ -24,9 +24,9 @@ University of Michigan
 - ### B.S. in Engineering, 2012 - 2016
 Xi'an Jiao Tong University
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/images/amazon.png)  |  ![](/images/amazon.png)
+Solarized dark             |  Solarized Ocean          |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](/images/uci_logo.png)  |  ![](/images/um.png).     |  ![](/images/Xi'an_Jiaotong_University.png)
 
 _______
 
