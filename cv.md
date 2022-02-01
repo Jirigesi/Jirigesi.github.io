@@ -26,7 +26,7 @@ Xi'an Jiao Tong University
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](/images/amazon.png)  |  ![](/images/amazon.png)
 
 _______
 
