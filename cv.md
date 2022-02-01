@@ -24,11 +24,11 @@ University of Michigan
 - ### B.S. in Engineering, 2012 - 2016
 Xi'an Jiao Tong University
 
-PhD (CS)                   | && |        Master (CS)         | && |         BEng (ME)
-:-------------------------:| && |:-------------------------:| && | :-------------------------:
-<img src=./images/uci_logo.png width="200"> | && |   <img src=./images/um.png width="200"> | && |  <img src=./images/Xian_Jiaotong_University.png width="200">
-California, USA            | && |        Michigan, USA      | && |         Shannxi, China
-2019 - 2023                | && |        2017               |&& |        2016
+PhD (CS)                   |    |        Master (CS)         |    |         BEng (ME)
+:-------------------------:|    |:-------------------------: |    | :-------------------------:
+<img src=./images/uci_logo.png width="200"> | && |   <img src=./images/um.png width="200"> |   |  <img src=./images/Xian_Jiaotong_University.png width="200">
+California, USA            |    |        Michigan, USA       |    |        Shannxi, China
+2019 - 2023                |    |        2017                |    |        2016
 
 
 _______
