@@ -26,7 +26,7 @@ Xi'an Jiao Tong University
 
 PhD (CS)                   |        Master (CS)         |         BEng (ME)
 :-------------------------:| :-------------------------:| :-------------------------:
-<img src=./images/uci_logo.png width="200"> |   <img src=./images/uci_logo.png width="200"> |  <img src=./images/Xian_Jiaotong_University width="200">
+<img src=./images/uci_logo.png width="200"> |   <img src=./images/uci_logo.png width="200"> |  <img src=./images/Xian_Jiaotong_University.png width="200">
 California, USA            |         Michigan, USA      |          Shannxi, China
 2019 - 2023                |         2017               |        2016
 
