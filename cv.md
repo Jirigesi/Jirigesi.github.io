@@ -18,7 +18,7 @@ _______
 
 PhD (CS)                   | --- |        Master (CS)         | --- |         BEng (ME)
 :-------------------------:| --- |:-------------------------: | --- | :-------------------------:
-<img src=./images/uci_logo.png width="200"> | && |   <img src=./images/um.png width="200"> | --- |  <img src=./images/Xian_Jiaotong_University.png width="200">
+<img src=./images/uci_logo.png width="200"> | --- |   <img src=./images/um.png width="200"> | --- |  <img src=./images/Xian_Jiaotong_University.png width="200">
 California, USA            | --- |        Michigan, USA       | --- |        Shannxi, China
 2019 - 2023                | --- |        2017                | --- |        2016
 
@@ -30,7 +30,7 @@ _______
 Amazon Science             | --- |        eBay                | --- |         Ford
 Palo Alto, CA              | --- |        San Jose, CA        | --- |        Lincoln Park, MI
 :-------------------------:| --- |:-------------------------: | --- | :-------------------------:
-<img src=./images/amazon.png width="200"> | && |   <img src=./images/EBay_logo.png width="200"> | --- |  <img src=./images/ford-logo.png width="200">
+<img src=./images/amazon.png width="200"> | --- |   <img src=./images/EBay_logo.png width="200"> | --- |  <img src=./images/ford-logo.png width="200">
 Research Intern            | --- |        Reasercher          | --- |       Machine Learning Engineer
 Summer 2022                | --- |        2021 - Now          | --- |        2019
 
