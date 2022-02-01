@@ -14,11 +14,11 @@ Before joining UC Irivine, Jiri was working as a Machine Learning Engineer in <a
 _______
 
 ## Education
-
+<img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:100px;">
 
 PhD (CS)                   | --- |        Master (CS)         | --- |         BEng (ME)
 :-------------------------:| --- |:-------------------------: | --- | :-------------------------:
-<img src=./images/uci_logo.png width="200"> | --- |   <img src=./images/um.png width="200"> | --- |  <img src=./images/Xian_Jiaotong_University.png width="200">
+<img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:100px;"> | --- |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:100px; height:100px;"> | --- |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:100px;">
 California, USA            | --- |        Michigan, USA       | --- |        Shannxi, China
 2019 - 2023                | --- |        2017                | --- |        2016
 
