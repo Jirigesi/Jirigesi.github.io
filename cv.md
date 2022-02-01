@@ -29,6 +29,8 @@ PhD (CS)                   | &nbsp |       Master (CS)         | &nbsp |        
 ![](/images/uci_logo.png)  | &nbsp |  ![](/images/um.png).     | &nbsp |  ![](/images/Xi'an_Jiaotong_University.png)
 California, USA            | &nbsp |        Michigan, USA      | &nbsp |          Shannxi, China
 2019 - 2023                | &nbsp |        2017               | &nbsp |          2016
+
+<div style="width:290px">(/images/uci_logo.png)</div> 
 _______
 
 ## Professional Service
