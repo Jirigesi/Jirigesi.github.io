@@ -14,7 +14,7 @@ Before joining UC Irivine, Jiri was working as a Machine Learning Engineer in <a
 _______
 
 ## Education
-<img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:100px;">
+
 
 PhD (CS)                   | --- |        Master (CS)         | --- |         BEng (ME)
 :-------------------------:| --- |:-------------------------: | --- | :-------------------------:
