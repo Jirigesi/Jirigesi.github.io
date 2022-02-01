@@ -24,7 +24,7 @@ University of Michigan
 - ### B.S. in Engineering, 2012 - 2016
 Xi'an Jiao Tong University
 
-       PhD(CS)             |       Master(CS)          |         BEng(ME)
+PhD(CS)                    |       Master(CS)          |         BEng(ME)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/uci_logo.png)  |  ![](/images/um.png).     |  ![](/images/Xi'an_Jiaotong_University.png)
 
