@@ -15,14 +15,14 @@ ________
 PhD (CS)                   |         Master (CS)         |          BEng (ME)
 :-------------------------:| :-------------------------: |  :-------------------------:
 <img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:130px;"> |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:100px; height:130px;"> |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:130px;">
-California, USA            |         Michigan, USA       |         Shannxi, China
+California, USA            |         Michigan, USA       |         Xi'an, China
 2019 - 2023                |         2017                |         2016
 
 
 _______
 ## Industry
 
-Amazon Science              |         eBay                |          Ford
+Amazon                      |         eBay                |          Ford
 :-------------------------: | :-------------------------: |  :-------------------------:
 Palo Alto, CA               |      San Jose, CA           |     Lincoln Park, MI
 <img src="{{ site.baseurl }}/images/amazon.png" class="img-thumbnail" style="min-height:50px; width:135px;"> |  <img src="{{ site.baseurl }}/images/EBay_logo.png" class="img-thumbnail" style="min-height:50px; width:135px;"> | <img src="{{ site.baseurl }}/images/ford-logo.png" class="img-thumbnail" style="min-height:50px; width:135px;">
