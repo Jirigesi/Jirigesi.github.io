@@ -16,11 +16,11 @@ _______
 ## Education
 
 
-PhD (CS)                   | --- |        Master (CS)         | --- |         BEng (ME)
-:-------------------------:| --- |:-------------------------: | --- | :-------------------------:
-<img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:100px;"> | --- |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:100px; height:100px;"> | --- |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:100px;">
-California, USA            | --- |        Michigan, USA       | --- |        Shannxi, China
-2019 - 2023                | --- |        2017                | --- |        2016
+PhD (CS)                   |         Master (CS)         |          BEng (ME)
+:-------------------------:| :-------------------------: |  :-------------------------:
+<img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:150px;"> | --- |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:150px; height:100px;"> | --- |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:150px;">
+California, USA            |         Michigan, USA       |         Shannxi, China
+2019 - 2023                |         2017                |         2016
 
 
 _______
