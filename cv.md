@@ -18,7 +18,7 @@ _______
 
 PhD (CS)                   |         Master (CS)         |          BEng (ME)
 :-------------------------:| :-------------------------: |  :-------------------------:
-<img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:140px;"> |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:100px; height:140px;"> |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:140px;">
+<img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:130px;"> |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:100px; height:130px;"> |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:130px;">
 California, USA            |         Michigan, USA       |         Shannxi, China
 2019 - 2023                |         2017                |         2016
 
@@ -29,7 +29,7 @@ _______
 Amazon Science              |         eBay                |          Ford
 :-------------------------: | :-------------------------: |  :-------------------------:
 Palo Alto, CA              |       San Jose, CA        |         Lincoln Park, MI
-<img src="{{ site.baseurl }}/images/amazon.png" class="img-thumbnail" style="min-height:100px; height:120px;"> |  <img src="{{ site.baseurl }}/images/EBay_logo.png" class="img-thumbnail" style="min-height:100px; height:120px;"> | <img src="{{ site.baseurl }}/images/ford-logo.png" class="img-thumbnail" style="min-height:100px; height:120px;">
+<img src="{{ site.baseurl }}/images/amazon.png" class="img-thumbnail" style="min-height:100px; height:100px;"> |  <img src="{{ site.baseurl }}/images/EBay_logo.png" class="img-thumbnail" style="min-height:100px; height:100px;"> | <img src="{{ site.baseurl }}/images/ford-logo.png" class="img-thumbnail" style="min-height:100px; height:100px;">
 Research Intern            |        Reasercher          |       Machine Learning Engineer
 Summer 2022                |        2021 - Now          |        2019
 
