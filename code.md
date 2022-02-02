@@ -11,7 +11,7 @@ _______
 
 ### Selected Projects
 
-* **Code clone detection** 
+* **Code Clone Detection** 
 
 <img src="{{ site.baseurl }}/code_clone.png" class="img-thumbnail" style="min-height:100px; height:180px;">
 
@@ -20,7 +20,7 @@ Read more [here](./files/CS295_Project.pdf)
 <br>
 
 ---
-* **Software defect prediction bias mitigation** 
+* **Software Defect Prediction Data Bias Mitigation** 
 
 <img src="{{ site.baseurl }}/schema.png" class="img-thumbnail" style="min-height:100px; height:180px;">
 
