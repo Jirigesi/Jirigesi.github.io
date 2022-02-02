@@ -28,9 +28,9 @@ _______
 
 Amazon Science              |         eBay                |          Ford
 :-------------------------: | :-------------------------: |  :-------------------------:
-Palo Alto, CA              |       San Jose, CA        |         Lincoln Park, MI
+Palo Alto, CA               |      San Jose, CA           |     Lincoln Park, MI
 <img src="{{ site.baseurl }}/images/amazon.png" class="img-thumbnail" style="min-height:100px; height:100px;"> |  <img src="{{ site.baseurl }}/images/EBay_logo.png" class="img-thumbnail" style="min-height:100px; height:100px;"> | <img src="{{ site.baseurl }}/images/ford-logo.png" class="img-thumbnail" style="min-height:100px; height:100px;">
-Research Intern            |        Graduate Student Reasercher    |       Machine Learning Engineer
+Research Intern            |  Graduate Student Researcher  |   Machine Learning Engineer
 Summer 2022                |        2022            |        2019
 
 
