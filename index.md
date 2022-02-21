@@ -27,6 +27,7 @@ At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?
 ### News
 
 - 01/2022 Jiri got **PhD research fellowship funding** from **eBay** for 2022
+- 12/2021 Jiri advances to Ph.D. candidate at the school of Information and Computer Science, UC Irvine
 - 12/2021 Jiri will do 2022 Summer **Applied Scientist Intern** in **Amazon A9** (Search Science and AI)
 - 04/2021 Our paper **"An Empirical Examination of the Impact of Bias on Just-in-time Defect Prediction"** is accepted in ESEM 2021
 - 03/2021 Our paper **"Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis"** is accepted in QRS 2021
