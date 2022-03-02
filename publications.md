@@ -19,7 +19,7 @@ copyright permission for non-commercial dissemination of scholarly and technical
 ## 2022
 * #### Code Smells in Machine Learning Systems
   **Jiri Gesi**, Siqi Liu, Jiawei Li, Iftekhar Ahmed, Nachiappan Nagappan, David Lo, Eduardo Santana de Almeida, Pavneet Singh Kochhar, Lingfeng Bao
-  ###### Arxiv
+  ###### arXiv
   <a href="https://arxiv.org/submit/4188749/view" target="_blank" style="color:rgb(255,128,0)">**Paper**</a>
 
 
