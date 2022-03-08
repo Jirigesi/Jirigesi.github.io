@@ -38,4 +38,4 @@ At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?
 
 This site has been vistited 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjirigesi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
-daily/total times 
+daily/total times since Feb 1, 2022. 
