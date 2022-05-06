@@ -56,10 +56,10 @@ _______
 
 Have mentored the following junior students and submitted several papers with them
 
-- Fall 2021 - present    Yufan Geng, UCI ICS MS student :arrow_right: Meta
-- Fall 2021 - present    Xinyun Shen, UCI ICS MS student &rarr Meta
-- Fall 2019 - Summer 2021    Jiawei Li, UCI ICS MS student &rarr UCI ICS PhD
-- Fall 2019 - Spring 2020    Siqi Liu, UCI ICS BS student &rarr Amazon
+- Fall 2021 - present    Yufan Geng, UCI ICS MS student ➡️ Meta
+- Fall 2021 - present    Xinyun Shen, UCI ICS MS student ➡️ Meta
+- Fall 2019 - Summer 2021    Jiawei Li, UCI ICS MS student ➡️ UCI ICS PhD
+- Fall 2019 - Spring 2020    Siqi Liu, UCI ICS BS student ➡️ Amazon
 _______
 
 ## Teaching assistant courses
