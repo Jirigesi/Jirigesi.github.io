@@ -47,9 +47,9 @@ _______
 
 ## Awards
 
-- Dean's Awards from Donald Bren School of Information and Computer Sciences,UC Irvine,  2019
-- Outstanding Master student's thesis, University of Michigan, 2017
-- Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
+- 🏆 Dean's Awards from Donald Bren School of Information and Computer Sciences,UC Irvine,  2019
+- 🏆 Outstanding Master student's thesis, University of Michigan, 2017
+- 🏆 Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
 
 _______
 ## Mentorship
