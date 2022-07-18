@@ -19,7 +19,7 @@ His research focuses on the interaction of two fields:
 - Machine learning systems can be used to automatically identify underlying patterns in sequential data, such as programming and natural language.
 - Software engineering tasks that can help programmers use fewer resources to develop higher-quality software
 
-At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> at <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on software defect prediction using deep learning techniques.  
+At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> at <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on Using natural language understanding techniques to improve the understanding of programming languages by AI models.
 
 <br />
 
