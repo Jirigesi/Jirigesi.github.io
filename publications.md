@@ -36,9 +36,3 @@ copyright permission for non-commercial dissemination of scholarly and technical
   ###### The 21st IEEE International Conference on Software Quality, Reliability, and Security 2021
   <a href="" target="_blank" style="color:rgb(255,128,0)">**Paper**</a>
   
-## 2017
-* #### Personalized Web Services Interface Design Using Interactive Computational Search
-  **Jiri Gesi**
-  ###### Master's thesis
-  <a href="https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140766/Thesis%20Report__Fun%20Jirigesi.pdf?sequence=1" target="_blank" style="color:rgb(255,128,0)">**Paper**</a>
-  
