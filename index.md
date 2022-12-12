@@ -28,6 +28,7 @@ At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?
 ---
 ### News
 
+- 12/2022 📢 Our paper **"Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models"** is accepted in ICSE 2023
 - 06/2022 📢 Jiri interned at **Amazon A9** (Search Science and AI) as an **Applied Scientist Intern**  
 - 01/2022 📢 Jiri got **PhD research fellowship funding** from **eBay** for 2022
 - 12/2021 📢 Jiri advances to **Ph.D. candidate** at the school of Information and Computer Science, UC Irvine
