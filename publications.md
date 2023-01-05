@@ -16,6 +16,13 @@ copyright permission for non-commercial dissemination of scholarly and technical
 
 ---
 ---
+
+## 2023
+* #### Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models
+  **Jiri Gesi**, Xinyun Shen, Yunfan Geng, Qihong Chen, Iftekhar Ahmed
+  ###### ICSE 2023
+ 
+  
 ## 2022
 * #### Code Smells in Machine Learning Systems
   **Jiri Gesi**, Siqi Liu, Jiawei Li, Iftekhar Ahmed, Nachiappan Nagappan, David Lo, Eduardo Santana de Almeida, Pavneet Singh Kochhar, Lingfeng Bao
