@@ -8,6 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 
 <br />
+
 **Looking for full time positions! Please reach out if you have opportunities!**
 
 <br />
