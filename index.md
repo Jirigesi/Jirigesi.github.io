@@ -9,6 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 **Looking for full time positions! Please reach out if you have opportunities!**
+
 <br />
 
 Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese) is a Ph.D. Candidate at <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a> - one of the top schools at Software Engineering research according to <a href="http://csrankings.org/#/index?soft&us" style="color:rgb(255,128,0)">*csRanking.org*</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
