@@ -20,7 +20,7 @@ copyright permission for non-commercial dissemination of scholarly and technical
 ## 2023
 
 * #### Behavior-driven Query Similarity Prediction based on Pre-trained Language Models for E-Commerce Search
-  Yupin Huang **Jiri Gesi**, Xinyu Hong, Han Cheng, Kai Zhong, Vivek Mittal, Qingjun Cui, Vamsi Salaka
+  Yupin Huang, **Jiri Gesi**, Xinyu Hong, Han Cheng, Kai Zhong, Vivek Mittal, Qingjun Cui, Vamsi Salaka
   ###### SIGIReCom 2023
 
 * #### Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models
