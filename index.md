@@ -9,11 +9,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-**Looking for full time positions! Please reach out if you have opportunities!**
+**We have open positions for Applied Scientist Intern postions! Please contact me if you are interested in working on LLM models**
 
 <br />
 
-Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese) is an Applied Scientist in Amazon Science. he got his Ph.D. from <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
+Dr. Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese) is an Applied Scientist in Amazon Science. He got his Ph.D. from <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
 
 <br />
 
