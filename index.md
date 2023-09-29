@@ -13,7 +13,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese) is a Ph.D. Candidate at <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a> - one of the top schools at Software Engineering research according to <a href="http://csrankings.org/#/index?soft&us" style="color:rgb(255,128,0)">*csRanking.org*</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
+Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese) is an Applied Scientist in Amazon Science. he got his Ph.D. from <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
 
 <br />
 
@@ -24,7 +24,7 @@ His research focuses on the interaction of two fields:
 - Machine learning systems can be used to automatically identify underlying patterns in sequential data, such as programming and natural language.
 - Software engineering tasks that can help programmers use fewer resources to develop higher-quality software
 
-At UC Irvine, he works with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> at <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on leveraging natural language proccessing techniques to improve the understanding of programming languages by AI models.
+At UC Irvine, he was working with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> at <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on leveraging natural language proccessing techniques to improve the understanding of programming languages by AI models.
 
 <br />
 
