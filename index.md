@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-**We have open positions for Applied Scientist Intern postions! Please contact me if you are interested in working on LLM models**
+**We have open positions for Applied Scientist Intern! Please contact me if you are interested in working on LLM for ranking**
 
 <br />
 
