@@ -23,7 +23,7 @@ My journey into the world of machine learning and AI began during my PhD studies
 <br />
 
 ---
-### Service
+### Services
 
 #### Program co-chair/committee member:
 - The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
