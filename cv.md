@@ -27,8 +27,8 @@ Amazon                      |         eBay                |          Ford
 :-------------------------: | :-------------------------: |  :-------------------------:
 <font size="2"> Palo Alto, CA </font>               |      <font size="2"> San Jose, CA </font>           |     <font size="2"> Allen Park, MI </font>
 <img src="{{ site.baseurl }}/images/amazon.png" class="img-thumbnail" style="min-height:50px; width:135px;"> |  <img src="{{ site.baseurl }}/images/EBay_logo.png" class="img-thumbnail" style="min-height:50px; width:135px;"> | <img src="{{ site.baseurl }}/images/ford-logo.png" class="img-thumbnail" style="min-height:50px; width:135px;">
-Research Intern            |  Graduate Student Researcher  |   Machine Learning Engineer
-Summer 2022                |        2022            |        2019
+Applied Scientist            |  Graduate Student Researcher  |   Machine Learning Engineer
+Since 2023                |        2022            |        2019
 
 
 _______
