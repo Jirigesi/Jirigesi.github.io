@@ -45,7 +45,7 @@ My journey into the world of machine learning and AI began during my PhD studies
 
 ---
 
-### News
+### Personal News
 - 03/2024 📢 Our paper **Towards Robustness Analysis of E-commerce Ranking System** is accepted in the WWW (The Web) 2024 Conference.
 - 09/2023 📢 Jiri joined **Amazon A9** (Search Science and AI) as an **Applied Scientist** 
 - 12/2022 📢 Our paper **"Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models"** is accepted in ICSE 2023
