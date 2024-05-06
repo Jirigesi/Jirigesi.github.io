@@ -30,7 +30,7 @@ My journey into the world of machine learning and AI began during my PhD studies
 - The 21st International conference on Mining Software Repositories (MSR 2024)
 - The 4th International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
 
-#### Reviewvers 
+#### Paper reviewer 
 
 - The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
 -  Transactions on Software Engineering and Methodology 2024
