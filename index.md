@@ -15,6 +15,8 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 Dr. Jiri Gesi is an Applied Scientist with a focus on enhancing the search experience by leveraging Artificial Intelligence (AI) techniques at Amazon Search. At the core of my work is the innovative use of state-of-the-art AI techniques to deeply understand customer shopping intentions. My goal is to deliver an unparalleled search experience that not only understands but anticipates the needs of each customer. By harnessing AI, I aim to curate product recommendations that align with individual preferences, search history, and multiple objectives like price, quality, shipping distance, and delivery time. 
 
+<br />
+
 My journey into the world of machine learning and AI began during my PhD studies at the University of California, Irvine, where I had the privilege of working under the guidance of Prof. Iftekhar Ahmed. My research was dedicated to applying machine learning algorithms to comprehend programming languages, which paved the way for developing tools that assist developers in creating superior software systems more efficiently. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
  
 
