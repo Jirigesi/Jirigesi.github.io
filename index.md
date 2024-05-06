@@ -13,23 +13,16 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-Dr. Jiri Gesi (Гиллигс in Mongolian, 吉日格斯 in Chinese) is an Applied Scientist in Amazon Science. He got his Ph.D. from <a style="color:rgb(255,128,0)">**Donald Bren School**</a>,  <a style="color:rgb(255,128,0)">**University of California, Irvine**</a>. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
+Dr. Jiri Gesi is an Applied Scientist with a focus on enhancing the search experience by leveraging Artificial Intelligence (AI) techniques at Amazon Search. At the core of my work is the innovative use of state-of-the-art AI techniques to deeply understand customer shopping intentions. My goal is to deliver an unparalleled search experience that not only understands but anticipates the needs of each customer. By harnessing AI, I aim to curate product recommendations that align with individual preferences, search history, and multiple objectives like price, quality, shipping distance, and delivery time. 
 
-<br />
-
-He specializes in mining data and leveraging machine learning techniques to design and build machine learning systems. He has experience in outlier detection, classification, recurrent neural networks, graph neural networks and etc. 
-
-His research focuses on the interaction of two fields:
-
-- Machine learning systems can be used to automatically identify underlying patterns in sequential data, such as programming and natural language.
-- Software engineering tasks that can help programmers use fewer resources to develop higher-quality software
-
-At UC Irvine, he was working with Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)">**Iftekhar Ahmed**</a> at <a href="http://stairs.ics.uci.edu/" target="_blank">**STAIRS Lab**</a> on leveraging natural language proccessing techniques to improve the understanding of programming languages by AI models.
+My journey into the world of machine learning and AI began during my PhD studies at the University of California, Irvine, where I had the privilege of working under the guidance of Prof. <a href="https://scholar.google.com/citations?user=_TdMD7sAAAAJ&hl=en" target="_blank" style="color:rgb(255,128,0)"> Iftekhar Ahmed. My research was dedicated to applying machine learning algorithms to comprehend programming languages, which paved the way for developing tools that assist developers in creating superior software systems more efficiently. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
+ 
 
 <br />
 
 ---
 ### News
+- 09/2023 📢 Our paper accepted in WWW (The Web) 2024 Conference in Singapore.
 - 09/2023 📢 Jiri joined **Amazon A9** (Search Science and AI) as an **Applied Scientist** 
 - 12/2022 📢 Our paper **"Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models"** is accepted in ICSE 2023
 - 06/2022 📢 Jiri interned at **Amazon A9** (Search Science and AI) as an **Applied Scientist Intern**  
