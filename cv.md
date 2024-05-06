@@ -33,18 +33,6 @@ Since 2023                |        2022            |        2019
 
 _______
 
-## Professional Service
-
-### Paper reviewer
-- Empirical Software Engineering Journal, 2021
-
-### Student volunteer
-- The 29th ACM SIGSOFT International Symposium on Software Testing and Analysis, July 11 – 17, 2020
-- The 42nd International Conference on Software Engineering, June 24, 2020 – July 16, 2020
-- Search Based Software Engineering, October 8-10, 2016
-
-_______
-
 ## Awards
 
 - 🏆 Dean's Awards from Donald Bren School of Information and Computer Sciences,UC Irvine,  2019
