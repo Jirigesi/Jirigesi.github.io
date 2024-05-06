@@ -23,7 +23,10 @@ My journey into the world of machine learning and AI began during my PhD studies
 <br />
 
 ---
-### Services
+
+---
+
+### Research Services
 
 #### Program co-chair/committee member:
 - The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
@@ -42,7 +45,6 @@ My journey into the world of machine learning and AI began during my PhD studies
 
 ---
 
----
 ### News
 - 03/2024 📢 Our paper **Towards Robustness Analysis of E-commerce Ranking System** is accepted in the WWW (The Web) 2024 Conference.
 - 09/2023 📢 Jiri joined **Amazon A9** (Search Science and AI) as an **Applied Scientist** 
