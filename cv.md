@@ -17,7 +17,7 @@ PhD (CS)                   |         Master (CS)         |          BEng (ME)
  <font size="2"> UC Irvine </font>      |     <font size="2"> Univ of Michigan </font>      |     <font size="2"> Xi'an Jiao Tong Univ </font> 
 <img src="{{ site.baseurl }}/images/uci_logo.png" class="img-thumbnail" style="min-height:100px; height:130px;"> |   <img src="{{ site.baseurl }}/images/um.png" class="img-thumbnail" style="min-height:100px; height:130px;"> |  <img src="{{ site.baseurl }}/images/Xian_Jiaotong_University.png" class="img-thumbnail" style="min-height:100px; height:130px;">
 California, USA            |         Michigan, USA       |         Xi'an, China
-Expect 2023                |         2017                |         2016
+       2023                |         2017                |         2016
 
 
 _______
