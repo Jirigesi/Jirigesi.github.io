@@ -5,9 +5,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 
-
-<br />
-
 <span style="color: orange;">**We have openings for Applied Scientist Interns and full-time positions! Contact me if you're interested in working on LLM for ranking!**</span>
 
 <br />
