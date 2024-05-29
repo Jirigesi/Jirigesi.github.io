@@ -23,7 +23,7 @@ _How can we train AI systems to efficiently and accurately map human behaviors a
 
 <br />
 
-My team at Amazon Science is researching how to train large natural language understanding models to create embeddings that represent customer online shopping behaviors for organic and advertisement ranking. We're also developing embeddings for store products to enhance the accuracy and efficiency of our 'ChatGPT for shopping' agent, among other projects.
+My team at Amazon Science is researching how to train large Natural Language Processing models to generate embeddings that represent customer online behaviors for organic and advertisement ranking. We're also developing embeddings for store products to enhance the accuracy and efficiency of our 'ChatGPT for shopping' agent, among other projects.
 
 
 ### Professional Services
