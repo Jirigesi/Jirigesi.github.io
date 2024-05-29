@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-<span style="color: orange;">**We have open positions for Applied Scientist Intern! Please contact me if you are interested in working on LLM for ranking!**</span>
+<span style="color: orange;">**We have openings for Applied Scientist Interns and full-time positions! Contact me if you're interested in working on LLM for ranking!**</span>
 
 <br />
 
