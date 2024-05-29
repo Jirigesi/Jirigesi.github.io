@@ -11,11 +11,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ### About me 
 
-I'm an **Applied Scientist** specializing in developing Large Foundation Models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings. I hold a PhD in Representation learning for programming languages from 
-
-<br />
-
-My journey into machine learning and AI began during my PhD at the UC, Irvine, under Prof. Iftekhar Ahmed. My research focused on applying machine learning algorithms to understand programming languages, leading to tools that help developers create better software more efficiently. Before UC Irvine, I was a Machine Learning Engineer at Ford.
+I'm an **Applied Scientist** specializing in developing Large Foundation Models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings. I hold a PhD in Representation learning for programming languages from UC, Irvine. 
  
 
 
