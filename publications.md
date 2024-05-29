@@ -15,7 +15,7 @@ _______
 
 ## Representation Learning 
 
-* #### Towards robustness analysis of e-commerce ranking system
+* #### Towards Robustness Analysis of E-commerce Ranking System
   Ningfei Wang, Yupin Huang, Han Cheng, **Jiri Gesi**, Vivek Mittal
   ###### WWW 2024
 
@@ -24,10 +24,10 @@ _______
   ###### SIGIReCom 2023
   
 * #### Out of Time: A Case Study of Using Team and Modification Representation Learning for Improving Bug Report Resolution Time Prediction in Ebay
-  **Jiri Gesi**, Andrew Trulove, Faraz Yazdani
+  **Jiri Gesi**, Hanzhang Wang, Bochang Wang, Andrew Truelove, Joontae Park, Iftekhar Ahmed
   
 * #### Code Clone Detection Using Representation Learning
-  **Jiri Gesi**, Hanzhang Wang, Bochang Wang, Andrew Truelove, Joontae Park, Iftekhar Ahmed
+  **Jiri Gesi**, Andrew Trulove, Faraz Yazdani
   
 ### Machine Learning Bias
 
@@ -53,5 +53,3 @@ _______
 * #### Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis
   Alex Groce, Iftekhar Ahmed, Josselin Feist, Gustavo Grieco, **Jiri Gesi**, Mehran Meidani
   ###### The 21st IEEE International Conference on Software Quality, Reliability, and Security 2021
-  <a href="" target="_blank" style="color:rgb(255,128,0)">**Paper**</a>
-  
