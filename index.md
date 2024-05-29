@@ -48,7 +48,6 @@ My team at Amazon Science is researching how to train large natural language und
 - (Industry Chair) The International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
 - (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
 
----
 
 ### Personal News
 - 03/2024 📢 Our paper **Towards Robustness Analysis of E-commerce Ranking System** is accepted in the WWW (The Web) 2024 Conference.
@@ -62,21 +61,18 @@ My team at Amazon Science is researching how to train large natural language und
 - 01/2021 📢 Jiri got **PhD research fellowship funding** from **eBay** for 2021
 - 09/2019 📢 Jiri is awarded **2019 Chair’s Award** from Donald Bren School of Information and Computer Sciences Department
 
----
 ### Awards
 
 - 🏆 Dean's Awards from Donald Bren School of Information and Computer Sciences,UC Irvine,  2019
 - 🏆 Outstanding Master student's thesis, University of Michigan, 2017
 - 🏆 Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
 
----
 <br />
 
 my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
 
 <br />
 
----
 
 This site has been vistited 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjirigesi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
