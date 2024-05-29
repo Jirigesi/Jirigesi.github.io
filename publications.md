@@ -40,5 +40,5 @@ comments: false
 * #### Code Smells in Machine Learning Systems 
   **Jiri Gesi**, Siqi Liu, Jiawei Li, Iftekhar Ahmed, Nachiappan Nagappan, David Lo, Eduardo Santana de Almeida, Pavneet Singh Kochhar, Lingfeng Bao
   
-* #### Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis (SQR 2021)
+* #### Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis (QRS 2021)
   Alex Groce, Iftekhar Ahmed, Josselin Feist, Gustavo Grieco, **Jiri Gesi**, Mehran Meidani
