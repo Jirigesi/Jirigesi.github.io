@@ -17,7 +17,7 @@ Dr. Jiri Gesi is an **Applied Scientist** specializing in developing Foundation 
 
 <br />
 
-My journey into the world of machine learning and AI began during my PhD studies at the **University of California, Irvine**, where I had the privilege of working under the guidance of **Prof. Iftekhar Ahmed**. My research was dedicated to applying machine learning algorithms to comprehend programming languages, which paved the way for developing tools that assist developers in creating superior software systems more efficiently. Before joining UC Irvine, he was a Machine Learning Engineer at Ford, USA. 
+My journey into machine learning and AI began during my PhD at the **University of California, Irvine**, under **Prof. Iftekhar Ahmed**. My research focused on applying machine learning algorithms to understand programming languages, leading to tools that help developers create better software more efficiently. Before UC Irvine, I was a Machine Learning Engineer at Ford, USA.
  
 
 <br />
