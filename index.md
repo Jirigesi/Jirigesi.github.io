@@ -24,14 +24,12 @@ My journey into machine learning and AI began during my PhD at the **University 
 
 <br />
 
----
-
 
 ### My research
 
+My research aims to solve Embdeeding Model. 
 
 
----
 
 ### Professional Services
 
