@@ -13,7 +13,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <br />
 
-Dr. Jiri Gesi is an **Applied Scientist** with a focus on enhancing the search experience by leveraging Artificial Intelligence (AI) techniques at **Amazon Search**. At the core of my work is the innovative use of state-of-the-art AI techniques to deeply understand customer shopping intentions. My goal is to deliver an unparalleled search experience that not only understands but anticipates the needs of each customer. By harnessing AI, I aim to curate product recommendations that align with individual preferences, search history, and multiple objectives like price, quality, shipping distance, and delivery time. 
+Dr. Jiri Gesi is an **Applied Scientist** specializing in developing Foundation models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings.
 
 <br />
 
