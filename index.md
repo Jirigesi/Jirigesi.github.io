@@ -7,8 +7,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <span style="color: orange;">**We have openings for Applied Scientist Interns and full-time positions! Contact me if you're interested in working on LLM for ranking!**</span>
 
-<br />
-
 ### About me 
 
 I'm an **Applied Scientist** specializing in developing Large Foundation Models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings. I hold a PhD in Representation Learning of Programming Languages from UC, Irvine. 
@@ -67,6 +65,7 @@ My team at Amazon Science is researching how to train large natural language und
 
 my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">FULL CV</a>.
 
+<br />
 
 This site has been vistited 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjirigesi.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
