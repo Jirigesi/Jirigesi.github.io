@@ -1,6 +1,5 @@
 ---
 layout: home2
-title: Jiri personal page
 description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 
