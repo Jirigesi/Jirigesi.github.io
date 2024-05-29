@@ -65,11 +65,7 @@ My team at Amazon Science is researching how to train large natural language und
 - 🏆 Outstanding Master student's thesis, University of Michigan, 2017
 - 🏆 Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
 
-<br />
-
-my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
-
-<br />
+my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">FULL CV</a>.
 
 
 This site has been vistited 
