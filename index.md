@@ -17,7 +17,7 @@ I'm an **Applied Scientist** specializing in developing Large Foundation Models 
 
 ### My research
 
-My research focuses on developing Embedding Model: 
+My research focuses on developing Embedding Models: 
 
 <br />
 
