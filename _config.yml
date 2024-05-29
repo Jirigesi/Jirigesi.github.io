@@ -28,8 +28,8 @@ links:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /code/
+  # - title: Projects
+  #   url: /code/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Mazatlan
