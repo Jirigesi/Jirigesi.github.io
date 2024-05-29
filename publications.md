@@ -7,8 +7,7 @@ modified: 05-29-2024
 comments: false
 ---
 
-
-## Representation Learning 
+### Representation Learning 
 
 * #### Towards Robustness Analysis of E-commerce Ranking System (WWW 2024)
   Ningfei Wang, Yupin Huang, Han Cheng, **Jiri Gesi**, Vivek Mittal
@@ -32,11 +31,9 @@ comments: false
 
 * #### Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models (ICSE 2023)
   **Jiri Gesi**, Xinyun Shen, Yunfan Geng, Qihong Chen, Iftekhar Ahmed
-  ###### 
 
 * #### An Empirical Examination of the Impact of Bias on Just-in-time Defect Prediction (EMSE 2023)
   **Jiri Gesi**, Jiawei Li, Iftekhar Ahmed
-
 
 ### Software Verification
 
