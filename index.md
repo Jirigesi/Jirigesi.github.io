@@ -63,7 +63,13 @@ My team at Amazon Science is researching how to train large natural language und
 - 09/2019 📢 Jiri is awarded **2019 Chair’s Award** from Donald Bren School of Information and Computer Sciences Department
 
 ---
+### Awards
 
+- 🏆 Dean's Awards from Donald Bren School of Information and Computer Sciences,UC Irvine,  2019
+- 🏆 Outstanding Master student's thesis, University of Michigan, 2017
+- 🏆 Siyuan Scholarship, Xi’an Jiao Tong University, 2013, 2014, 2015
+
+---
 <br />
 
 my <a href="https://github.com/Jirigesi/Jirigesi.github.io/blob/master/CV.pdf">full CV</a>.
