@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /publications/
-title: Seleted Publications
+title: Selected Publications
 tags: [publications]
 modified: 05-29-2024
 comments: false
