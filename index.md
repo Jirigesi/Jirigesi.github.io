@@ -14,7 +14,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ### About me 
 
-I'm an **Applied Scientist** specializing in developing Foundation models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings.
+I'm an **Applied Scientist** specializing in developing Large Foundation Models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings. I hold a PhD in Representation learning for programming languages from 
 
 <br />
 
@@ -26,8 +26,11 @@ My journey into machine learning and AI began during my PhD at the UC, Irvine, u
 
 ### My research
 
-My research aims to solve Embedding Model. 
+My research focuses on developing Embedding Model: 
 
+How can we train AI systems to efficiently and accurately map human behaviors to products?
+
+My team at Amazon Science is researching how to train large natural language understanding models to create embeddings that represent customer online shopping behaviors for organic and advertisement ranking. We're also developing embeddings for store products to enhance the accuracy and efficiency of our 'ChatGPT for shopping' agent, among other projects.
 
 
 ### Professional Services
