@@ -1,7 +1,7 @@
 ---
 layout: publications
 permalink: /publications/
-title: My Publications
+title: Seleted Publications
 tags: [publications]
 modified: 05-29-2024
 comments: false
@@ -9,9 +9,6 @@ comments: false
 ________
 _______
 
-# Selected Publications
-
----
 
 ## Representation Learning 
 
