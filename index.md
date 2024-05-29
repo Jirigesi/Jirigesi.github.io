@@ -28,12 +28,6 @@ My journey into the world of machine learning and AI began during my PhD studies
 
 ### Professional Services
 
-#### Program co-chair/committee member:
-- (PC member) The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
-- (PC member) The 21st International conference on Mining Software Repositories (MSR 2024)
-- (Industry Chair) The International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
-- (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
-
 #### Research paper review
 
 - (NIPS 2024) the Thirty-eighth Annual Conference on Neural Information Processing Systems
@@ -44,6 +38,12 @@ My journey into the world of machine learning and AI began during my PhD studies
 - (SEA4DQ 2024) The 4th International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things 
 - (TOSEM 2023) Transactions on Software Engineering and Methodology 2023
 - (ESE 2021) Empirical Software Engineering Journal, 2021
+
+#### Program co-chair/committee member:
+- (PC member) The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
+- (PC member) The 21st International conference on Mining Software Repositories (MSR 2024)
+- (Industry Chair) The International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
+- (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
 
 ---
 
