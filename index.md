@@ -18,7 +18,7 @@ I'm an **Applied Scientist** specializing in developing Foundation models for Am
 
 <br />
 
-My journey into machine learning and AI began during my PhD at the **University of California, Irvine**, under **Prof. Iftekhar Ahmed**. My research focused on applying machine learning algorithms to understand programming languages, leading to tools that help developers create better software more efficiently. Before UC Irvine, I was a Machine Learning Engineer at Ford, USA.
+My journey into machine learning and AI began during my PhD at the UC, Irvine, under Prof. Iftekhar Ahmed. My research focused on applying machine learning algorithms to understand programming languages, leading to tools that help developers create better software more efficiently. Before UC Irvine, I was a Machine Learning Engineer at Ford, USA.
  
 
 <br />
