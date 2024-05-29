@@ -25,9 +25,13 @@ My journey into machine learning and AI began during my PhD at the UC, Irvine, u
 ### My research
 
 My research focuses on developing Embedding Model: 
+
 </br>
+
 _How can we train AI systems to efficiently and accurately map human behaviors and products?_
+
 </br>
+
 My team at Amazon Science is researching how to train large natural language understanding models to create embeddings that represent customer online shopping behaviors for organic and advertisement ranking. We're also developing embeddings for store products to enhance the accuracy and efficiency of our 'ChatGPT for shopping' agent, among other projects.
 
 
