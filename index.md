@@ -26,7 +26,7 @@ My journey into machine learning and AI began during my PhD at the **University 
 
 ### My research
 
-My research aims to solve Embdeeding Model. 
+My research aims to solve Embedding Model. 
 
 
 
