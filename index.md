@@ -29,7 +29,6 @@ My team at Amazon Science is researching how to train large natural language und
 
 
 ### Professional Services
-
 #### Research paper review
 
 - (NIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems
@@ -47,7 +46,6 @@ My team at Amazon Science is researching how to train large natural language und
 - (PC member) The 21st International conference on Mining Software Repositories (MSR 2024)
 - (Industry Chair) The International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
 - (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
-
 
 ### Personal News
 - 03/2024 📢 Our paper **Towards Robustness Analysis of E-commerce Ranking System** is accepted in the WWW (The Web) 2024 Conference.
