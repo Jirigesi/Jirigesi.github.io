@@ -30,8 +30,9 @@ My journey into the world of machine learning and AI began during my PhD studies
 
 #### Research paper review
 
-- (NIPS 2024) the Thirty-eighth Annual Conference on Neural Information Processing Systems
+- (NIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems
 - (TIST 2024) Transactions on Intelligent Systems and Technology 2024
+- (WWW 2024) The 2024 International World Wide Web Conference
 - (ASE 2024) The 39th IEEE/ACM International Conference on Automated Software Engineering
 - (TOSEM 2024) Transactions on Software Engineering and Methodology 2024
 - (MSR 2024) 21st International conference on Mining Software Repositories 
