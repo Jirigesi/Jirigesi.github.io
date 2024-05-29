@@ -12,6 +12,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 <span style="color: orange;">**We have openings for Applied Scientist Interns and full-time positions! Contact me if you're interested in working on LLM for ranking!**</span>
 
 <br />
+
 ### About me 
 
 I'm an **Applied Scientist** specializing in developing Foundation models for Amazon Store at **Amazon Search**. My work focuses on leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings.
