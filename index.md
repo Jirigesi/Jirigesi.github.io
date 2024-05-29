@@ -27,7 +27,7 @@ My team at Amazon Science is researching how to train large Natural Language Pro
 
 
 ### Professional Services
-#### Publication reviewer
+#### Publication reviewer:
 
 - (NIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems
 - (TIST 2024) Transactions on Intelligent Systems and Technology 2024
