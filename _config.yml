@@ -24,8 +24,8 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: /cv/
+  # - title: Curriculum
+  #   url: /cv/
   - title: Publications
     url: /publications/
   # - title: Projects
