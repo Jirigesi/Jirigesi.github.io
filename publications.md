@@ -7,7 +7,7 @@ modified: 05-29-2024
 comments: false
 ---
 
-### Representation Learning 
+### Representation Learning: 
 
 * #### Towards Robustness Analysis of E-commerce Ranking System (WWW 2024)
   Ningfei Wang, Yupin Huang, Han Cheng, **Jiri Gesi**, Vivek Mittal
@@ -24,7 +24,7 @@ comments: false
 * #### Code Clone Detection Using Representation Learning
   **Jiri Gesi**, Andrew Trulove, Faraz Yazdani
   
-### Machine Learning Bias
+### Machine Learning Bias:
 
 * #### Feature Bias in Machine Learning Models: An In-Depth Exploration for Software Engineering Tasks
   **Jiri Gesi**
@@ -35,7 +35,7 @@ comments: false
 * #### An Empirical Examination of the Impact of Bias on Just-in-time Defect Prediction (EMSE 2023)
   **Jiri Gesi**, Jiawei Li, Iftekhar Ahmed
 
-### Software Verification
+### Software Verification:
 
 * #### Code Smells in Machine Learning Systems 
   **Jiri Gesi**, Siqi Liu, Jiawei Li, Iftekhar Ahmed, Nachiappan Nagappan, David Lo, Eduardo Santana de Almeida, Pavneet Singh Kochhar, Lingfeng Bao
