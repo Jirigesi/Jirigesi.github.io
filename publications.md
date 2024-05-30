@@ -43,7 +43,7 @@ comments: false
 * #### Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis (QRS 2021)
   Alex Groce, Iftekhar Ahmed, Josselin Feist, Gustavo Grieco, **Jiri Gesi**, Mehran Meidani
 
-* #### Personalized Web Services Interface Design Using Interactive Computational Search
+* #### Personalized Web Services Interface Design Using Interactive Computational Search (TSE 2018)
   **Jiri Gesi**
 
   
