@@ -32,6 +32,7 @@ My team at Amazon Science is researching how to train large Natural Language Pro
 - (NIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems
 - (TIST 2024) Transactions on Intelligent Systems and Technology 2024
 - (WWW 2024) The 2024 International World Wide Web Conference
+- (AMLC 2024) The 2024 Amazon Machine Learning Conference
 - (ASE 2024) The 39th IEEE/ACM International Conference on Automated Software Engineering
 - (TOSEM 2024) Transactions on Software Engineering and Methodology 2024
 - (MSR 2024) 21st International conference on Mining Software Repositories 
