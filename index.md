@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ### About me 
 
-I'm currently working as an **Applied Scientist** specializing in developing Large Foundation Models at **Amazon Search** (previously known as A9). My work is about leveraging advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to encode customer behaviors and products. This allows us to fully harness the potential of LLMs to build improved retrieval and ranking models for both organic and advertisement rankings. I hold a PhD in Representation Learning of Programming Languages from UC, Irvine. 
+I'm currently an **Applied Scientist** at **Amazon Search** (formerly A9), where I specialize in developing Large Foundation Models. My work involves using advanced AI techniques to pre-train and fine-tune Large Language Models (LLMs) to understand customer behaviors and product characteristics. This helps us unlock the full potential of LLMs for creating better retrieval and ranking models for both organic search results and advertisements. I hold a PhD in Representation Learning of Programming Languages from UC, Irvine.
 
 <br />
 
