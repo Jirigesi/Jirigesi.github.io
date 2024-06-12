@@ -17,7 +17,7 @@ I love traveling, hitting up music festivals, and saying 'Yes!'. I enjoy coding 
 
 ### My research
 
-Embedding or dense vector representation of text encodes its semantic information and can be used for many downstream applications, including retrieval, reranking, classification, clustering, and semantic textual similarity tasks. The embedding-based retriever is also a critical component for retrieval-augmented generation (RAG), which allows LLMs to access the most up-to-date external or proprietary knowledge without modifying the model parameters
+The embedding or dense vector representation of text or images captures its semantic information, enabling its use in various downstream applications such as retrieval, reranking, classification, clustering, and semantic similarity tasks. This method is essential for embedding-based retrieval systems, which play a crucial role in retrieval-augmented generation (RAG). RAG allows large language models (LLMs) to access the latest external or proprietary knowledge without altering the model parameters.
 
 My research focuses on: 
 
