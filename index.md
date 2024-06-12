@@ -17,11 +17,13 @@ I love traveling, hitting up music festivals, and saying 'Yes!'. I enjoy coding 
 
 ### My research
 
-My research focuses on developing Embedding Models: 
+Embedding or dense vector representation of text encodes its semantic information and can be used for many downstream applications, including retrieval, reranking, classification, clustering, and semantic textual similarity tasks. The embedding-based retriever is also a critical component for retrieval-augmented generation (RAG), which allows LLMs to access the most up-to-date external or proprietary knowledge without modifying the model parameters
+
+My research focuses on: 
 
 <br />
 
-_How can we train AI systems to efficiently and accurately map human behaviors and products?_
+_How can we train AI systems to efficiently and accurately represent the human behaviors and products for LLM?_
 
 <br />
 
