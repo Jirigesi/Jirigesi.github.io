@@ -29,8 +29,16 @@ My team at Amazon Science is researching how to train large Natural Language Pro
 
 
 ### Professional Services
-#### Publication reviewer:
 
+#### Program co-chair/committee member:
+- (PC member) The 25th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2025)
+- (PC member) The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
+- (PC member) The 21st International conference on Mining Software Repositories (MSR 2024)
+- (Industry Chair) The International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
+- (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
+
+#### Publication reviewer:
+- (ICLR 2025) International Conference on Learning Representations
 - (NIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems
 - (TIST 2024) Transactions on Intelligent Systems and Technology 2024
 - (WWW 2024) The 2024 International World Wide Web Conference
@@ -42,11 +50,7 @@ My team at Amazon Science is researching how to train large Natural Language Pro
 - (TOSEM 2023) Transactions on Software Engineering and Methodology 2023
 - (ESE 2021) Empirical Software Engineering Journal, 2021
 
-#### Program co-chair/committee member:
-- (PC member) The 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
-- (PC member) The 21st International conference on Mining Software Repositories (MSR 2024)
-- (Industry Chair) The International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things (SEA4DQ 2024)
-- (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
+
 
 ### Personal News
 - 03/2024 📢 Our paper **Towards Robustness Analysis of E-commerce Ranking System** is accepted in the WWW (The Web) 2024 Conference.
