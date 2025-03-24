@@ -38,6 +38,7 @@ My team at Amazon Science is researching how to train large Natural Language Pro
 - (PC member) ACM International Conference on AI-powered Software (AIware 2024) 
 
 #### Publication reviewer:
+- (NIPS 2025) The Thirty-eighth Annual Conference on Neural Information Processing Systems
 - (ICLR 2025) International Conference on Learning Representations
 - (NIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems
 - (TIST 2024) Transactions on Intelligent Systems and Technology 2024
