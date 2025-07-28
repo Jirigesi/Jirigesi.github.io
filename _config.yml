@@ -1,55 +1,38 @@
 title:            Jiri Gesi
-description:      Welcome to my site.
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //Jirigesi.github.io
-#http://localhost:5000
-#https://Jirigesi.github.io
-disqus_shortname: Jirigesi
+description:      Welcome to my personal research site.
+url:              //jirigesi.github.io  # Leave blank or use localhost when working locally
 
-# Owner/author information
+disqus_shortname: jirigesi
+
+# Owner/Author Information
 owner:
   name:           Jiri Gesi
   avatar:         jirigesi2.png
-  bio:            Machine Learning | Retrival & Ranking researcher
+  bio:            LLM Post-Training | Retrieval & Ranking Researcher
   email:          jirigesi@gmail.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jirigesi
-  linkedin: jirigesi
+  twitter:        jirigesi
+  linkedin:       jirigesi
   google_scholar: https://scholar.google.com/citations?user=pZTCjMsAAAAJ&hl=en
-  github: jirigesi
-# Analytics and webmaster tools stuff goes here
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify:
+  github:         jirigesi
 
-# Links to include in top navigation
-# For external links add external: true
+# Top Navigation Links
 links:
-  # - title: Curriculum
-  #   url: /cv/
   - title: Publications
     url: /publications/
-  # - title: Projects
-  #   url: /code/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# Site Settings
 timezone:    America/Mazatlan
 future:      true
-#pygments:    true
 highlighter: rouge
 markdown:    kramdown
+
 kramdown:
   extensions: ["strikethrough"]
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
   syntax_highlighter_opts:
     line_numbers:
     line_numbers_start: 1
@@ -57,5 +40,28 @@ kramdown:
     bold_every: 10
     css: class
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Files and Folders to Include/Exclude
+include:
+  - ".htaccess"
+
+exclude:
+  - lib
+  - config.rb
+  - Capfile
+  - config
+  - log
+  - Rakefile
+  - Rakefile.rb
+  - tmp
+  - less
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - test
+  - spec
+  - Gruntfile.js
+  - package.json
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
