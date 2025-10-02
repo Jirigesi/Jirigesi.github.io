@@ -80,29 +80,12 @@ Introduces **SyntaGuid**, which explicitly **guides attention** toward meaningfu
 
 ---
 
-## 🎓 Research Community Service  
+## Community Service  
 
-**Conference Reviews (ML):**  
-- EMNLP 2025  
-- ICML 2025  
-- NeurIPS 2025, 2024, 2023  
-- ICLR 2024, 2025  
-- TIST 2024  
-- WWW 2024  
-
-**Conference Reviews (Software Engineering):**  
-- TOSEM 2025, 2024, 2023  
-- MSR 2024, 2023  
-- ASE 2024, 2023  
-- SEA4DQ 2024  
-- ESE 2021  
-
-**Program Committee / Organizing Roles:**  
-- PROMISE 2025  
-- ASE 2024  
-- MSR 2024  
-- SEA4DQ 2024  
-- AIware 2024  
+**Conference Reviews (ML):** EMNLP 2025, 2024; ICML 2025, 2024; NeurIPS 2025, 2024, 2023; ICLR 2025, 2024; TIST 2024; WWW 2024. SIGIR: 2024 
+**Conference Reviews (Software Engineering):** TOSEM 2025, 2024, 2023; MSR 2024, 2023; ASE 2024, 2023; SEA4DQ 2024; ESE 2021.  
+**Program Committee / Organizing Roles:** PROMISE 2025; ASE 2024; MSR 2024; SEA4DQ 2024; AIware 2024.
+ 
 
 ---
 
