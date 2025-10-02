@@ -20,7 +20,7 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 
 ## 📑 Selected Papers
 
-### 🔹 LLM Reasoning
+### 🔹 LLM Reasoning & Training
 
 **Gödel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**  
 *Authors:* Yong Lin, Shange Tang, Bohan Lyu, Ziran Yang, Jui-Hui Chung, Haoyu Zhao, Lai Jiang, Yihan Geng, Jiawei Ge, Jingruo Sun, Jiayun Wu, **Jiri Gesi**, Ximing Lu, David Acuna, Kaiyu Yang, Hongzhou Lin, Yejin Choi, Danqi Chen, Sanjeev Arora, Chi Jin  
@@ -29,6 +29,22 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 
 ---
 
+**SFT Doesn’t Always Hurt General Capabilities: Revisiting Domain-Specific Fine-Tuning in LLMs**  
+*Authors:* Jiacheng Lin, Zhongruo Wang, Kun Qian, Tian Wang, Arvind Srinivasan, Hansi Zeng, Ruochen Jiao, Xie Zhou, **Jiri Gesi**, Dakuo Wang, Yufan Guo, Kai Zhong, Weiqi Zhang, Sujay Sanghavi, Changyou Chen, Hyokun Yun, Lihong Li  
+[arXiv](https://arxiv.org/abs/2509.20758)  
+**Summary:** Re-examines the “SFT hurts generality” assumption. Shows small learning rates largely mitigate degradation while preserving target-domain gains; introduces **TALR** (Token-Adaptive Loss Reweighting) to further improve the trade-off.
+
+---
+
+**Beyond Self-Learned Attention: Mitigating Attention Bias in Transformer-Based Models Using Attention Guidance**  
+*Authors:* **Jiri Gesi**, Iftekhar Ahmed  
+[arXiv](https://arxiv.org/abs/2402.16790)  
+**Summary:** Introduces **SyntaGuid**, which guides attention toward syntax/AST signals to counter bias toward special tokens. Improves multiple software-engineering LLM tasks without extra data, correcting a notable share of prior errors.
+
+---
+
+### 🔹 LLM Agents & Simulation
+
 **Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning**  
 *Authors:* Yimeng Zhang, Tian Wang, **Jiri Gesi**, Ziyi Wang, Yuxuan Lu, Jiacheng Lin, Sinong Zhan, Vianne Gao, Ruochen Jiao, Junze Liu, Kun Qian, Yuxin Tang, Ran Xue, Houyu Zhang, Qingjun Cui, Yufan Guo, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2507.17842)  
@@ -36,19 +52,17 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 
 ---
 
-### 🔹 LLM Agents
+**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**  
+*Authors:* Ziyi Wang, Yuxuan Lu, Wenbo Li, Amirali Amini, Bo Sun, Yakov Bart, Weimin Lyu, **Jiri Gesi**, Tian Wang, Jing Huang, Yu Su, Upol Ehsan, Malihe Alikhani, Toby Jia-Jun Li, Lydia Chilton, Dakuo Wang  
+[arXiv](https://arxiv.org/abs/2506.05606)  
+**Summary:** A public dataset pairing user personas, browser observations, fine-grained web actions, and just-in-time rationales. Establishes benchmarks for next-action/rationale prediction and digital-twin evaluation.
+
+---
 
 **Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data**  
 *Authors:* Yuxuan Lu, Jing Huang, Yan Han, Bingsheng Yao, Sisong Bei, **Jiri Gesi**, Yaochen Xie, Qi He, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2503.20749)  
 **Summary:** Evaluates LLMs on web action generation using real shopping behavior data. Shows fine-tuning with real trajectories significantly outperforms prompting alone, and adding synthesized reasoning traces further improves accuracy.
-
----
-
-**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**  
-*Authors:* Ziyi Wang, Yuxuan Lu, Wenbo Li, Amirali Amini, Bo Sun, Yakov Bart, Weimin Lyu, **Jiri Gesi**, Tian Wang, Jing Huang, Yu Su, Upol Ehsan, Malihe Alikhani, Toby Jia-Jun Li, Lydia Chilton, Dakuo Wang  
-[arXiv](https://arxiv.org/abs/2506.05606)  
-**Summary:** A public dataset pairing user personas, browser observations, fine-grained web actions, and just-in-time rationales. Establishes benchmarks for next-action/rationale prediction and digital-twin evaluation.
 
 ---
 
@@ -62,7 +76,7 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 **Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation**  
 *Authors:* Jiaju Chen, Yuxuan Lu, Xiaojie Wang, Huimin Zeng, Jing Huang, **Jiri Gesi**, Ying Xu, Bingsheng Yao, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2507.21028)  
-**Summary:** Proposes MAJ-Eval—multi-persona evaluator agents that debate and aggregate judgments. Produces evaluations more aligned with expert ratings than typical automatic metrics in domains like education and medicine.
+**Summary:** Proposes **MAJ-Eval**—multi-persona evaluator agents that debate and aggregate judgments. Produces evaluations more aligned with expert ratings than typical automatic metrics in domains like education and medicine.
 
 ---
 
@@ -70,25 +84,6 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 *Authors:* Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Jessie Wang, Yang Li, **Jiri Gesi**, Qi He, Toby Jia-Jun Li, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2504.09407)  
 **Summary:** A practical framework to simulate UX studies before recruiting participants. Generates personas and browsing agents, logs quantitative traces/interviews, and provides replays to help teams iterate rapidly on study design.
-
----
-
-### 🔹 LLM SFT
-
-**SFT Doesn’t Always Hurt General Capabilities: Revisiting Domain-Specific Fine-Tuning in LLMs**  
-*Authors:* Jiacheng Lin, Zhongruo Wang, Kun Qian, Tian Wang, Arvind Srinivasan, Hansi Zeng, Ruochen Jiao, Xie Zhou, **Jiri Gesi**, Dakuo Wang, Yufan Guo, Kai Zhong, Weiqi Zhang, Sujay Sanghavi, Changyou Chen, Hyokun Yun, Lihong Li  
-[arXiv](https://arxiv.org/abs/2509.20758)  
-**Summary:** Re-examines the “SFT hurts generality” assumption. Shows small learning rates largely mitigate degradation while preserving target-domain gains; introduces TALR (Token-Adaptive Loss Reweighting) for further trade-off improvements.
-
----
-
-### 🔹 Software Engineering
-
-**Beyond Self-Learned Attention: Mitigating Attention Bias in Transformer-Based Models Using Attention Guidance**  
-*Authors:* **Jiri Gesi**, Iftekhar Ahmed  
-[arXiv](https://arxiv.org/abs/2402.16790)  
-**Summary:** Introduces SyntaGuid, which guides attention toward syntax/AST signals to counter bias toward special tokens. Improves multiple software-engineering LLM tasks without extra data, correcting a notable share of prior errors.
-
 
 ---
 
