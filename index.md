@@ -4,26 +4,32 @@ description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-<span style="color: orange; font-weight: bold;">
-We are hiring Applied Scientist Interns and full-time positions!  
-Contact me if you're interested in working on LLMs for retrieval & ranking.
-</span>
+
 
 ---
 
-## 👋 About Me  
+## 👋 About Me
 
-I’m currently an **Applied Scientist at Amazon Store Foundation AI**, where I focus on **post-training large language models (LLMs)** for shopping applications and agents.  
-Our post-trained LLMs have been successfully launched in Amazon experiences such as **Rufus, Personalization, and Search**.  
+I’m an **Applied Scientist at Amazon Store Foundation AI**, focusing on **post-training large language models (LLMs)** for shopping applications and agents.  
+Our post-trained LLMs power Rufus and a variety of shopping applications such as personalization support, product ranking, and related LLM-powered experiences.
 
-Outside of work, I enjoy traveling, music festivals, saying “Yes!”, coding, and reading research papers.  
+My research centers on machine learning—especially **post-training for LLMs**. Key areas of interest:
+
+- **(1) LLM Reasoning.** Enabling LLMs to reason with **verifiable rewards**. Within Amazon, we’ve shown that post-training can instill reasoning—e.g., teaching models to internalize **chain-of-thought** via SFT, then pushing further with RL methods like **GRPO/GSPO** across diverse tasks. I also collaborate on **formal mathematical reasoning** (e.g., with Yong Lin and Chi Jin from Princeton University), leveraging formal methods (LEAN) to reason in formal languages—culminating in the SOTA open-source theorem-proving model **Gödel-Prover V2**.
+
+- **(2) LLM SFT (Supervised Fine-Tuning).** I view SFT is the **cornerstone** of reasoning: high-quality chain-of-thought data first teaches models to follow instructions and to solve varied tasks reliably. At Amazon, we curate CoT datasets across tasks to build solid reasoning foundations. We’ve also explored techniques to **mitigate catastrophic forgetting**—see our study **“SFT Doesn’t Always Hurt General Capabilities.”**
+
+- **(3) LLM Agents.** The north star is **building practical agents**. To better simulate real human shopping behavior, we built **OPeRA**, a dataset of real shopping trajectories covering **Observation, Persona, Rationale, and Action**. We develop agents like **Shop-R1** (two-stage: rationale → action with distinct rewards) and **VLM shopping Agents** variant, and we build **multi-agent** evaluators to assess agent systems more robustly.
+
+Before Amazon, I completed my **Ph.D. at UC Irvine** advised by **Prof. Iftekhar Ahmed**, exploring Software Engineering area further advanced by benchmarks such as **SWE-Bench**. 
+
 
 ---
 
 ## 📑 Selected Papers  
 
 ### Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction
-[arXiv](https://arxiv.org/abs/2508.03613) • [Code & models](https://github.com/Goedel-LM/Goedel-Prover-V2)
+[arXiv](https://arxiv.org/abs/2508.03613)
 
 Introduces a family of theorem-proving LLMs that combine **scaffolded data synthesis**, **verifier-guided self-correction (Lean feedback)**, and **model averaging**. The 8B model hits **84.6% pass@32 on MiniF2F**, and the 32B model reaches **88.1% (90.4% with self-correction)**; it also tops **PutnamBench** among open-source models while being far smaller than prior SOTA.
 
