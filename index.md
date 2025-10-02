@@ -22,7 +22,7 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 
 ---
 
-## 📑 Selected Papers  
+## 📑 Selected Studies
 
 ### Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction
 [arXiv](https://arxiv.org/abs/2508.03613)
