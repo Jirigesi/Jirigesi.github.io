@@ -1,5 +1,5 @@
 title:            Jiri Gesi
-description:      Welcome to my personal research site.
+description:      Welcome to my site.
 url:              //jirigesi.github.io  # Leave blank or use localhost when working locally
 
 disqus_shortname: jirigesi
@@ -8,17 +8,16 @@ disqus_shortname: jirigesi
 owner:
   name:           Jiri Gesi
   avatar:         jirigesi2.png
-  bio:            LLM Post-Training | Retrieval & Ranking Researcher
+  bio:            LLM Post-Training | LLM Agent | Reinforment Learning
   email:          jirigesi@gmail.com
   twitter:        jirigesi
   linkedin:       jirigesi
-  google_scholar: https://scholar.google.com/citations?user=pZTCjMsAAAAJ&hl=en
-  github:         jirigesi
+  google_scholar: https://scholar.google.com/citations?user=pZTCjMsAAAAJ
 
 # Top Navigation Links
-links:
-  - title: Publications
-    url: /publications/
+# links:
+#   - title: Publications
+#     url: /publications/
 
 # Site Settings
 timezone:    America/Mazatlan
