@@ -18,7 +18,7 @@ My research interest centers on machine learning—especially **post-training fo
 Beyond LLM post-training, we have successfully pre-trained a set of high-quality sub-10B models, leveraging scaling laws to set hyperparameters (e.g., batch size, learning rate), optimizing compute budgets, and curating high-signal data mixtures. Before Amazon, I obtained my Ph.D. at UC Irvine with Prof. Iftekhar Ahmed, working at the intersection of software engineering and ML—an area advanced by studies like SWE-Bench and SWE-Agent.
 
 
-## 📑 Selected Papers
+## 📝 Selected Papers
 
 ### 🔹 LLM Reasoning & Training
 
@@ -87,7 +87,7 @@ Beyond LLM post-training, we have successfully pre-trained a set of high-quality
 
 ---
 
-## 🎓 Community Service  
+## 🌐 Community Service  
 
 **Conference Reviews (ML):** EMNLP 2025, 2024; ICML 2025, 2024; NeurIPS 2025, 2024, 2023; ICLR 2025, 2024; TIST 2024; WWW 2024; SIGIR 2024.  
 **Conference Reviews (Software Engineering):** TOSEM 2025, 2024, 2023; MSR 2024, 2023; ASE 2024, 2023; SEA4DQ 2024; ESE 2021.  
