@@ -25,8 +25,6 @@ Outside of work, I enjoy traveling, music festivals, saying “Yes!”, coding, 
 ### Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction
 [arXiv](https://arxiv.org/abs/2508.03613) • [Code & models](https://github.com/Goedel-LM/Goedel-Prover-V2)
 
-![Goedel-Prover-V2 — recommended: first-page figure with pipeline overview](/assets/papers/goedel-prover-v2.png)
-
 Introduces a family of theorem-proving LLMs that combine **scaffolded data synthesis**, **verifier-guided self-correction (Lean feedback)**, and **model averaging**. The 8B model hits **84.6% pass@32 on MiniF2F**, and the 32B model reaches **88.1% (90.4% with self-correction)**; it also tops **PutnamBench** among open-source models while being far smaller than prior SOTA.
 
 ---
