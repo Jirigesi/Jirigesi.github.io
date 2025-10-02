@@ -29,27 +29,6 @@ Introduces a family of theorem-proving LLMs that combine **scaffolded data synth
 
 ---
 
-### LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-Based Shopping Assistants?
-[arXiv](https://arxiv.org/abs/2509.21501)
-
-First **large-scale human study** (multi-turn with an agentic shopping assistant) plus a **persona-grounded “digital twin” simulation** where LLM agents replay user behaviors for apples-to-apples evaluation. Shows the agentic simulation can mirror real-world task outcomes and UX dimensions, enabling faster/cheaper iteration on shopping assistants.
-
----
-
-### SFT Doesn’t Always Hurt General Capabilities: Revisiting Domain-Specific Fine-Tuning in LLMs
-[arXiv](https://arxiv.org/abs/2509.20758)
-
-Re-examines the belief that domain SFT ruins general abilities. Finds that **smaller learning rates** largely **mitigate general-capability degradation** while keeping domain performance; introduces **TALR (Token-Adaptive Loss Reweighting)** to further improve the balance. Provides theory (token-tree/code-length view) + practical guidelines. 
-
----
-
-### Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation
-[arXiv](https://arxiv.org/abs/2507.21028)
-
-Proposes **MAJ-Eval**, which automatically builds **multi-persona** evaluator agents from source docs and runs **in-group debates** to produce multi-dimensional feedback. Achieves **closer alignment to expert ratings** vs. common automated metrics and prior LLM-as-Judge setups in education and medical domains.
-
----
-
 ### Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning
 [arXiv](https://arxiv.org/abs/2507.17842)
 
@@ -62,6 +41,26 @@ Frames shopper simulation as **two-stage RL**: first generate **rationales**, th
 
 Releases **OPeRA**, the first public dataset pairing **user personas**, **browser observations**, **fine-grained web actions**, and **just-in-time rationales** from real shopping sessions. Establishes **benchmarks** for predicting next actions/rationales and evaluating “digital-twin” agents. 
 
+---
+
+### SFT Doesn’t Always Hurt General Capabilities: Revisiting Domain-Specific Fine-Tuning in LLMs
+[arXiv](https://arxiv.org/abs/2509.20758)
+
+Re-examines the belief that domain SFT ruins general abilities. Finds that **smaller learning rates** largely **mitigate general-capability degradation** while keeping domain performance; introduces **TALR (Token-Adaptive Loss Reweighting)** to further improve the balance. Provides theory (token-tree/code-length view) + practical guidelines. 
+
+---
+
+### LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-Based Shopping Assistants?
+[arXiv](https://arxiv.org/abs/2509.21501)
+
+First **large-scale human study** (multi-turn with an agentic shopping assistant) plus a **persona-grounded “digital twin” simulation** where LLM agents replay user behaviors for apples-to-apples evaluation. Shows the agentic simulation can mirror real-world task outcomes and UX dimensions, enabling faster/cheaper iteration on shopping assistants.
+
+---
+
+### Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation
+[arXiv](https://arxiv.org/abs/2507.21028)
+
+Proposes **MAJ-Eval**, which automatically builds **multi-persona** evaluator agents from source docs and runs **in-group debates** to produce multi-dimensional feedback. Achieves **closer alignment to expert ratings** vs. common automated metrics and prior LLM-as-Judge setups in education and medical domains.
 
 ---
 
