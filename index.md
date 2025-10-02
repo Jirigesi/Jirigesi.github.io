@@ -25,49 +25,47 @@ Yong Lin, Shange Tang, Bohan Lyu, Ziran Yang, Jui-Hui Chung, Haoyu Zhao, Lai Jia
 [arXiv](https://arxiv.org/abs/2508.03613)  
  Introduces a theorem-proving LLM stack combining scaffolded data synthesis, verifier-guided self-correction (Lean feedback), and model averaging. Achieves strong MiniF2F and PutnamBench results while remaining much smaller than prior SOTA.
 
----
 
 **Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning**  
 Yimeng Zhang, Tian Wang, **Jiri Gesi**, Ziyi Wang, Yuxuan Lu, Jiacheng Lin, Sinong Zhan, Vianne Gao, Ruochen Jiao, Junze Liu, Kun Qian, Yuxin Tang, Ran Xue, Houyu Zhang, Qingjun Cui, Yufan Guo, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2507.17842)  
  Frames shopper simulation as two-stage RL—first generate rationales, then predict actions—with tailored rewards. Improves realism and controllability versus task-completion baselines and enables downstream evaluation/policy analysis.
 
----
+
+**Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data**
+Yuxuan Lu, Jing Huang, Yan Han, Bingsheng Yao, Sisong Bei, Jiri Gesi, Yaochen Xie, Qi He, Dakuo Wang
+[arXiv](https://arxiv.org/pdf/2503.20749)
+Evaluates state-of-the-art LLMs on **web action generation** using a large-scale dataset of real online-shopping behaviors, focusing on **objective accuracy** (not just “believability”). Finds that **fine-tuning on real behavior data** substantially outperforms prompt-only setups, and that adding **synthesized reasoning traces** during training yields further gains—offering practical guidance for building more faithful **customer-behavior simulators**.
 
 **OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**  
 Ziyi Wang, Yuxuan Lu, Wenbo Li, Amirali Amini, Bo Sun, Yakov Bart, Weimin Lyu, **Jiri Gesi**, Tian Wang, Jing Huang, Yu Su, Upol Ehsan, Malihe Alikhani, Toby Jia-Jun Li, Lydia Chilton, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2506.05606)  
  A public dataset pairing user personas, browser observations, fine-grained web actions, and just-in-time rationales from real shopping sessions. Establishes benchmarks for next-action/rationale prediction and digital-twin evaluation.
 
----
 
 **SFT Doesn’t Always Hurt General Capabilities: Revisiting Domain-Specific Fine-Tuning in LLMs**  
 Jiacheng Lin, Zhongruo Wang, Kun Qian, Tian Wang, Arvind Srinivasan, Hansi Zeng, Ruochen Jiao, Xie Zhou, **Jiri Gesi**, Dakuo Wang, Yufan Guo, Kai Zhong, Weiqi Zhang, Sujay Sanghavi, Changyou Chen, Hyokun Yun, Lihong Li  
 [arXiv](https://arxiv.org/abs/2509.20758)  
  Re-examines the “SFT hurts generality” assumption. Shows small learning rates largely mitigate degradation while preserving target-domain gains; proposes **TALR** (Token-Adaptive Loss Reweighting) to further improve the trade-off with theoretical and empirical support.
 
----
 
 **LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-Based Shopping Assistants?**  
 Lu Sun, Shihan Fu, Bingsheng Yao, Yuxuan Lu, Wenbo Li, Hansu Gu, **Jiri Gesi**, Jing Huang, Chen Luo, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2509.21501)  
  Combines a large-scale human study with a persona-grounded “digital-twin” simulation where LLM agents replay user behaviors. Finds agentic simulations can mirror real-world outcomes/UX dimensions, enabling faster, lower-cost assistant iteration.
 
----
 
 **Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation**  
 Jiaju Chen, Yuxuan Lu, Xiaojie Wang, Huimin Zeng, Jing Huang, **Jiri Gesi**, Ying Xu, Bingsheng Yao, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2507.21028)  
  Builds MAJ-Eval—multi-persona evaluator agents that debate and aggregate judgments. Produces evaluations that align more closely with expert ratings than common automatic metrics across domains like education and medicine.
 
----
 
 **UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents**  
 Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Jessie Wang, Yang Li, **Jiri Gesi**, Qi He, Toby Jia-Jun Li, Dakuo Wang  
 [arXiv](https://arxiv.org/abs/2504.09407)  
  A practical framework to simulate UX studies before recruiting participants. Generates personas and browsing agents, logs quantitative traces/interviews, and provides replays to help teams iterate rapidly on study design.
 
----
 
 **Beyond Self-Learned Attention: Mitigating Attention Bias in Transformer-Based Models Using Attention Guidance**  
 **Jiri Gesi**, Iftekhar Ahmed  
