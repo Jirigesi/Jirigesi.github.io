@@ -9,7 +9,7 @@ Our post-trained LLMs power a variety of Amazon shopping applications such as pe
 
 My research interest centers on machine learning—especially **post-training for LLMs**. Key areas of interest:
 
-- **(1) LLM Reasoning.** Enabling LLMs to reason with **verifiable rewards**. Within Amazon, we’ve shown that post-training can instill reasoning—e.g., teaching models to internalize **chain-of-thought** via SFT, then pushing further with RL methods like **GRPO/GSPO** across diverse tasks. I also collaborate on **formal mathematical reasoning** (e.g., with Yong Lin and Chi Jin from Princeton University), leveraging formal methods (LEAN) to reason in formal languages—culminating in the SOTA open-source theorem-proving model **Gödel-Prover V2**.
+- **(1) LLM Reasoning.** Enabling LLMs to reason with **verifiable rewards**. Within Amazon, we’ve shown that post-training can instill reasoning—e.g., teaching models to internalize **chain-of-thought** via SFT, then pushing further with RL methods like **GRPO/GSPO** across diverse tasks. I also collaborate on **formal mathematical reasoning** (e.g., with Yong Lin and Prof. Chi Jin from Princeton University), leveraging formal methods (LEAN) to reason in formal languages—culminating in the SOTA open-source theorem-proving model **Gödel-Prover V2**.
 
 - **(2) LLM SFT (Supervised Fine-Tuning).** I view SFT as the **cornerstone** of reasoning: high-quality chain-of-thought data first teaches models to follow instructions and to solve varied tasks reliably. At Amazon, we curate CoT datasets across tasks to build solid reasoning foundations. We’ve also explored techniques to **mitigate catastrophic forgetting**—see our study **“SFT Doesn’t Always Hurt General Capabilities.”**
 
