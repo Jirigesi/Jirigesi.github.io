@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <span style="color: orange;">**We have openings for Applied Scientist Interns and full-time positions! Contact me if you're interested in working on LLM for retrival&ranking!**</span>
 
-### About me 
+## About me 
 
 I'm currently an Applied Scientist at Amazon Store Foudation AI. My focus on post-training of LLMs for shopping applications and agents. LLM training is expensive, however, post-training is 
 
@@ -16,20 +16,27 @@ I'm currently an Applied Scientist at Amazon Store Foudation AI. My focus on pos
 I love traveling, hitting up music festivals, and saying 'Yes!'. I enjoy coding and reading research papers.
 
 
+## Selected Papers:
 
 
-#### Research community services :
-PC/commity members: 
-PROMISE 2025. ASE 2024, MSR 2024, SEA4DQ 2024, AIware 2024
 
+
+
+## Research community services :
 
 Confernce paper reviews: 
 
 Machine Learning: 
-NIPS 2025, 2024, 2023. ICLR 2024, 2025. TIST: 2024. WWW 2024. 
+EMNLP 2025. ICML 2025, NIPS 2025, 2024, 2023. ICLR 2024, 2025. TIST: 2024. WWW 2024. 
 
 Software Engineering: 
 TOSEM: 2025, 2024, 2023. MSR: 2024, 2023. ASE 2024, 2023. SEA4DQ 2024. ESE 2021
+
+PC/commity members: 
+PROMISE 2025. ASE 2024, MSR 2024, SEA4DQ 2024, AIware 2024
+
+
+
 
 
 
