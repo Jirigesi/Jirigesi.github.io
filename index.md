@@ -4,7 +4,7 @@ description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I’m an **Applied Scientist at Amazon Store Foundation AI**, focusing on **post-training large language models (LLMs)** for shopping applications and agents. Our post-trained LLMs already deployed to power a variety of Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
+I’m an **Applied Scientist at Amazon Store Foundation AI**, focusing on **post-training large language models (LLMs)** for shopping applications and agents. Our post-trained LLMs have been deployed to power a variety of Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
 
 My research interest centers on machine learning—especially **post-training for LLMs**. Key areas of interest:
 
