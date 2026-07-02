@@ -1,8 +1,11 @@
 ---
 layout: home2
+title: Jiri Gesi
 description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
+
+<p class="page-role">Senior Researcher &middot; Microsoft Research</p>
 
 I’m a **Senior Researcher at Microsoft Research**, focusing on **post-training large language models (LLMs)** and agents. Previously, I was an Applied Scientist at Amazon Store Foundation AI, where our post-trained LLMs were deployed to power a variety of Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
 

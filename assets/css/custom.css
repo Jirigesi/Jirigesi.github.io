@@ -1,0 +1,150 @@
+/* ==========================================================================
+   custom.css — "Warm Slate" restrained polish (loaded after main.min.css)
+   Additive only: no theme files are modified. Tweak --accent to restyle.
+   ========================================================================== */
+
+:root {
+  --accent:      #b0542e;   /* muted terracotta */
+  --accent-dark: #8a3f20;
+  --ink:         #201d1a;   /* charcoal for headings */
+  --rule:        #ece7e2;   /* warm hairline */
+}
+
+/* --- Global feel: smoother type + a thin signature bar at the very top --- */
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { text-rendering: optimizeLegibility; }
+body.page { border-top: 3px solid var(--accent); }
+
+::selection   { background: rgba(176, 84, 46, 0.16); }
+::-moz-selection { background: rgba(176, 84, 46, 0.16); }
+
+a { transition: color .16s ease, border-color .16s ease, background-color .16s ease; }
+
+/* Collapse the empty <h1> only when the page has no title */
+#main article > h1:empty { display: none; margin: 0; }
+
+/* --- Hero: name + role anchor the top of the reading column --- */
+#main article > h1 {
+  color: var(--ink);
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-bottom: 2px;
+}
+.page-role {
+  margin: 0 0 1.4em;
+  padding-bottom: 1.1em;
+  border-bottom: 1px solid var(--rule);
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 1.15em;
+  letter-spacing: .6px;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+/* --- Reading column: a touch more air; larger opening paragraph --- */
+.article-wrap { line-height: 1.72; }
+.article-wrap p { margin-bottom: 1.15em; }
+.page-role + p { font-size: 1.12em; line-height: 1.7; color: #2c2926; }
+
+/* Body links: warm, clean underline instead of the grey dotted line */
+.article-wrap p > a,
+.article-wrap li > a {
+  color: var(--accent);
+  border-bottom: 1px solid rgba(176, 84, 46, 0.35);
+}
+.article-wrap p > a:hover,
+.article-wrap li > a:hover {
+  color: var(--accent-dark);
+  border-bottom-color: var(--accent-dark);
+}
+
+/* --- Section headers (## …) : charcoal with a quiet warm rule --- */
+.article-wrap h2 {
+  color: var(--ink);
+  font-size: 1.7em;
+  font-weight: 700;
+  margin-top: 2em;
+  padding-bottom: .35em;
+  letter-spacing: .2px;
+  border-bottom: 2px solid var(--rule);
+}
+
+/* --- Subsection headers (### …) : small, warm, tracked --- */
+.article-wrap h3 {
+  color: var(--accent-dark);
+  font-size: 1.15em;
+  margin-top: 1.7em;
+  margin-bottom: .8em;
+  letter-spacing: .4px;
+}
+
+/* --- Paper entries become subtle cards with a warm left-accent bar --- */
+.article-wrap p:has(a strong) {
+  background: #faf8f6;
+  border: 1px solid #efe9e4;
+  border-left: 3px solid var(--accent);
+  border-radius: 6px;
+  padding: 15px 20px;
+  margin: 0 0 16px;
+  line-height: 1.6;
+  box-shadow: 0 1px 3px rgba(32, 29, 26, 0.04);
+  transition: box-shadow .18s ease, border-color .18s ease;
+}
+.article-wrap p:has(a strong):hover {
+  box-shadow: 0 3px 12px rgba(32, 29, 26, 0.09);
+  border-left-color: var(--accent-dark);
+}
+
+/* Paper titles: the scannable anchor of each card */
+.article-wrap p > a:has(> strong) {
+  color: var(--ink);
+  border-bottom: 0;
+  font-size: 1.08em;
+  line-height: 1.4;
+}
+.article-wrap p > a:has(> strong):hover { color: var(--accent); }
+
+/* Cards supply the separation — retire the horizontal rules between them */
+.article-wrap hr { display: none; }
+
+/* --- Bio sidebar: refined rectangular portrait + pill-style social links --- */
+.article-author-side .bio-photo {
+  width: 100%;
+  max-width: 165px;
+  height: auto;
+  border-radius: 10px;          /* rounded rectangle, not a circle */
+  border: 3px solid #fff;
+  box-shadow: 0 3px 14px rgba(32, 29, 26, 0.14);
+  outline: 1px solid var(--rule);
+}
+.article-author-side h3 {
+  color: var(--ink);
+  font-weight: 700;
+  letter-spacing: .3px;
+}
+
+.author-social {
+  display: inline-block;
+  margin: 0 4px 8px 0;
+  padding: 4px 11px;
+  font-size: 13px;
+  color: #4a453f;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: #fff;
+}
+.author-social:visited { color: #4a453f; }
+/* Replace the theme's jittery scale-on-hover with a calm warm fill */
+.author-social:hover {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+  -webkit-transform: none;
+     -moz-transform: none;
+      -ms-transform: none;
+          transform: none;
+}
+.author-social:active { -webkit-transform: none; transform: none; }
+
+/* --- Footer: quiet it down --- */
+.footer-wrap { color: #9a938c; letter-spacing: .2px; }

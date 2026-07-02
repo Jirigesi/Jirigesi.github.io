@@ -7,9 +7,10 @@ disqus_shortname: jirigesi (吉日格斯)
 # Owner/Author Information
 owner:
   name:           Jiri Gesi
-  avatar:         jirigesi.png
-  bio:            LLM Post-Training | LLM Agent | Reinforment Learning
-  # google_scholar: https://scholar.google.com/citations?user=pZTCjMsAAAAJ
+  avatar:         jiri_avatar.jpg
+  bio:            LLM Post-Training | LLM Agents | Reinforcement Learning
+  google_scholar: pZTCjMsAAAAJ
+  linkedin:       jirigesi
 
 # Top Navigation Links
 # links:
