@@ -4,20 +4,20 @@ description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I’m an **Applied Scientist at Amazon Store Foundation AI**, focusing on **post-training large language models (LLMs)** for shopping applications and agents. Our post-trained LLMs have been deployed to power a variety of Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
+I’m a **Senior Researcher at Microsoft Research**, focusing on **post-training large language models (LLMs)** and agents. Previously, I was an Applied Scientist at Amazon Store Foundation AI, where our post-trained LLMs were deployed to power a variety of Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
 
 <br>
 
 My research interest centers on machine learning—especially **post-training for LLMs**. Key areas of interest:
 
-- **(1) LLM Reasoning.** Enabling LLMs to reason with **“verifiable” rewards**. Within Amazon, we’ve shown that post-training can instill reasoning—e.g., teaching models to internalize **chain-of-thought** via SFT, then pushing further with RL methods like **GRPO/GSPO** across diverse tasks. I also collaborate on **formal mathematical reasoning** (with Yong Lin and Prof. Chi Jin from Princeton University), leveraging formal methods (LEAN) to reason in formal languages—culminating in the SOTA open-source theorem-proving model **Gödel-Prover V2**, which has been highlighted by [Thinking Machines Lab’s Tinker platform](https://thinkingmachines.ai/tinker/).
+- **(1) LLM Reasoning.** Enabling LLMs to reason with **“verifiable” rewards**. At Amazon, we showed that post-training can instill reasoning—e.g., teaching models to internalize **chain-of-thought** via SFT, then pushing further with RL methods like **GRPO/GSPO** across diverse tasks. I also collaborate on **formal mathematical reasoning** (with Yong Lin and Prof. Chi Jin from Princeton University), leveraging formal methods (LEAN) to reason in formal languages—culminating in the SOTA open-source theorem-proving model **Gödel-Prover V2**, which has been highlighted by [Thinking Machines Lab’s Tinker platform](https://thinkingmachines.ai/tinker/).
 
 
-- **(2) LLM SFT (Supervised Fine-Tuning).** I view SFT as the **cornerstone** of reasoning: high-quality chain-of-thought data first teaches models to follow instructions and to solve varied tasks reliably. At Amazon, we curate CoT datasets across tasks to build solid reasoning foundations. We’ve also explored techniques to **mitigate catastrophic forgetting**—see our study **“SFT Doesn’t Always Hurt General Capabilities.”**
+- **(2) LLM SFT (Supervised Fine-Tuning).** I view SFT as the **cornerstone** of reasoning: high-quality chain-of-thought data first teaches models to follow instructions and to solve varied tasks reliably. At Amazon, we curated CoT datasets across tasks to build solid reasoning foundations. We’ve also explored techniques to **mitigate catastrophic forgetting**—see our study **“SFT Doesn’t Always Hurt General Capabilities.”**
 
 - **(3) LLM Agents.** The north star is **building practical agents**. To better simulate real human shopping behavior, we built **OPeRA**, a dataset of real shopping trajectories covering **Observation, Persona, Rationale, and Action**. We develop agents like **Shop-R1** and **VLM shopping agents**, and we build **multi-agent** evaluators to assess agent systems more robustly.
 
-Beyond LLM post-training, we have successfully pre-trained a set of high-quality sub-10B models, leveraging scaling laws to set hyperparameters (e.g., batch size, learning rate), optimizing compute budgets, and curating high-signal data mixtures. Before Amazon, I obtained my Ph.D. at UC Irvine with Prof. Iftekhar Ahmed, working at the intersection of software engineering and ML—an area advanced by studies like SWE-Bench and SWE-Agent.
+Beyond LLM post-training, at Amazon we also successfully pre-trained a set of high-quality sub-10B models, leveraging scaling laws to set hyperparameters (e.g., batch size, learning rate), optimizing compute budgets, and curating high-signal data mixtures. Before that, I obtained my Ph.D. at UC Irvine with Prof. Iftekhar Ahmed, working at the intersection of software engineering and ML—an area advanced by studies like SWE-Bench and SWE-Agent.
 
 
 ## 📝 Selected Papers
