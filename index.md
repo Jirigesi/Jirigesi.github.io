@@ -1,93 +1,63 @@
 ---
-layout: home2
-title: Jiri Gesi
-description: "Jiri Gesi"
-tags: [Jekyll, theme, responsive, blog, template]
+layout: profile
+role: Co-founder, Voltspan AI
+tagline: Built AI agents at Microsoft and Amazon. Now building the GPU clusters that train them.
+description: "Jiri Gesi, co-founder of Voltspan AI. Builds AI agents: previously Today in Microsoft 365 Copilot and Rufus, Amazon's AI shopping agent."
+previously: "[Microsoft Copilot Today](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/) · [Amazon Rufus](https://www.aboutamazon.com/news/retail/amazon-rufus) · Ph.D. UC Irvine"
+experience:
+  - org: Voltspan AI
+    url: https://voltspan.ai
+    when: Now
+    role: Co-founder
+    note: We build and run NVIDIA GPU clusters as the foundation for agent model training and agent clouds.
+  - org: Microsoft
+    role: Senior Researcher, Microsoft 365 Copilot
+    note: "Built [Today](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/) on the Copilot science team: an agentic command center across email, calendar, Teams and tasks that drafts replies, proposes schedule changes and lines up follow-ups. Featured in Satya Nadella's new Copilot launch. [Watch the preview](https://www.youtube.com/watch?v=Jv-iQSZ3YVY)."
+  - org: Amazon
+    role: Applied Scientist, Store Foundation AI
+    note: "Core member of the team that built [Rufus](https://www.aboutamazon.com/news/retail/amazon-rufus), Amazon's AI shopping agent, from scratch: training the model, deploying it at Amazon scale, and building the product end to end. Rufus is now [Alexa for Shopping](https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant)."
+  - org: UC Irvine
+    role: Ph.D., Computer Science
+    note: Software engineering and machine learning, with Prof. Iftekhar Ahmed.
+links:
+  - title: voltspan.ai
+    url: https://voltspan.ai
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jirigesi
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=pZTCjMsAAAAJ
+service:
+  - label: Reviewer (ML)
+    text: EMNLP 2025, 2024; ICML 2025, 2024; NeurIPS 2025, 2024, 2023; ICLR 2025, 2024; TIST 2024; WWW 2024; SIGIR 2024.
+  - label: Reviewer (Software Engineering)
+    text: TOSEM 2025, 2024, 2023; MSR 2024, 2023; ASE 2024, 2023; SEA4DQ 2024; ESE 2021.
+  - label: Program Committee / Organizing
+    text: PROMISE 2025; ASE 2024; MSR 2024; SEA4DQ 2024; AIware 2024.
 ---
 
-<p class="page-role">Co-founder &middot; <a href="https://voltspan.ai">Voltspan AI</a></p>
+<section id="research" class="reveal" markdown="1">
+## Research
 
-I’m a **co-founder of [Voltspan AI](https://voltspan.ai)**. We build and run NVIDIA GPU clusters as the foundation for agent model training and agent clouds.
+My research centers on **post-training for LLMs**.
 
-Before Voltspan, I was a **Senior Researcher at Microsoft Research**, working on **post-training large language models (LLMs)** and agents. Before that, I was an Applied Scientist at Amazon Store Foundation AI, where our post-trained LLMs powered Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
+<div class="areas">
+<div class="area" markdown="1">
+<span class="glass-icon tint-blue" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="6" cy="6" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="18" r="2.2"/><path d="M7.6 7.6 10.6 16M16.4 7.6 13.4 16M8.2 6h7.6"/></svg></span>
 
-<br>
+#### LLM Reasoning
+Teaching LLMs to reason with **verifiable rewards**: chain-of-thought via SFT, then RL with **GRPO/GSPO**. Formal math in LEAN with Yong Lin and Prof. Chi Jin (Princeton) led to **Gödel-Prover-V2**, an open-source SOTA theorem prover featured on [Thinking Machines’ Tinker](https://thinkingmachines.ai/tinker/).
+</div>
+<div class="area" markdown="1">
+<span class="glass-icon tint-volt" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 7h14M5 12h14M5 17h14"/><circle cx="9" cy="7" r="2"/><circle cx="15" cy="12" r="2"/><circle cx="11" cy="17" r="2"/></svg></span>
 
-My research interest centers on machine learning—especially **post-training for LLMs**. Key areas of interest:
+#### Supervised Fine-Tuning
+High-quality chain-of-thought data is the **cornerstone** of reasoning. We also study how to **avoid catastrophic forgetting** when fine-tuning for a domain.
+</div>
+<div class="area" markdown="1">
+<span class="glass-icon tint-violet" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="5" y="8" width="14" height="11" rx="3"/><path d="M12 4v4M9 13h.01M15 13h.01"/><circle cx="12" cy="3.5" r="1"/></svg></span>
 
-- **(1) LLM Reasoning.** Enabling LLMs to reason with **“verifiable” rewards**. At Amazon, we showed that post-training can instill reasoning—e.g., teaching models to internalize **chain-of-thought** via SFT, then pushing further with RL methods like **GRPO/GSPO** across diverse tasks. I also collaborate on **formal mathematical reasoning** (with Yong Lin and Prof. Chi Jin from Princeton University), leveraging formal methods (LEAN) to reason in formal languages—culminating in the SOTA open-source theorem-proving model **Gödel-Prover V2**, which has been highlighted by [Thinking Machines Lab’s Tinker platform](https://thinkingmachines.ai/tinker/).
-
-
-- **(2) LLM SFT (Supervised Fine-Tuning).** I view SFT as the **cornerstone** of reasoning: high-quality chain-of-thought data first teaches models to follow instructions and to solve varied tasks reliably. At Amazon, we curated CoT datasets across tasks to build solid reasoning foundations. We’ve also explored techniques to **mitigate catastrophic forgetting**—see our study **“SFT Doesn’t Always Hurt General Capabilities.”**
-
-- **(3) LLM Agents.** The north star is **building practical agents**. To better simulate real human shopping behavior, we built **OPeRA**, a dataset of real shopping trajectories covering **Observation, Persona, Rationale, and Action**. We develop agents like **Shop-R1** and **VLM shopping agents**, and we build **multi-agent** evaluators to assess agent systems more robustly.
-
-Beyond LLM post-training, at Amazon we also successfully pre-trained a set of high-quality sub-10B models, leveraging scaling laws to set hyperparameters (e.g., batch size, learning rate), optimizing compute budgets, and curating high-signal data mixtures. Before that, I obtained my Ph.D. at UC Irvine with Prof. Iftekhar Ahmed, working at the intersection of software engineering and ML—an area advanced by studies like SWE-Bench and SWE-Agent.
-
-
-## 📝 Selected Papers
-
-### 🔹 LLM Reasoning & Training
-
-[**Gödel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction**](https://arxiv.org/abs/2508.03613)  
-*Authors:* Yong Lin, Shange Tang, Bohan Lyu, Ziran Yang, Jui-Hui Chung, Haoyu Zhao, Lai Jiang, Yihan Geng, Jiawei Ge, Jingruo Sun, Jiayun Wu, **Jiri Gesi**, Ximing Lu, David Acuna, Kaiyu Yang, Hongzhou Lin, Yejin Choi, Danqi Chen, Sanjeev Arora, Chi Jin  
-**Summary:** Introduces a theorem-proving LLM stack combining scaffolded data synthesis, verifier-guided self-correction, and model averaging. Achieves strong MiniF2F and PutnamBench results while remaining much smaller than prior SOTA.
-
----
-
-[**SFT Doesn’t Always Hurt General Capabilities: Revisiting Domain-Specific Fine-Tuning in LLMs**](https://arxiv.org/abs/2509.20758)  
-*Authors:* Jiacheng Lin, Zhongruo Wang, Kun Qian, Tian Wang, Arvind Srinivasan, Hansi Zeng, Ruochen Jiao, Xie Zhou, **Jiri Gesi**, Dakuo Wang, Yufan Guo, Kai Zhong, Weiqi Zhang, Sujay Sanghavi, Changyou Chen, Hyokun Yun, Lihong Li  
-**Summary:** Re-examines the “SFT hurts generality” assumption. Shows small learning rates largely mitigate degradation while preserving target-domain gains; introduces **TALR** (Token-Adaptive Loss Reweighting) to further improve the trade-off.
-
----
-
-[**Beyond Self-Learned Attention: Mitigating Attention Bias in Transformer-Based Models Using Attention Guidance**](https://arxiv.org/abs/2402.16790)  
-*Authors:* **Jiri Gesi**, Iftekhar Ahmed  
-**Summary:** Introduces **SyntaGuid**, which guides attention toward syntax/AST signals to counter bias toward special tokens. Improves multiple software-engineering LLM tasks without extra data, correcting a notable share of prior errors.
-
----
-
-### 🔹 LLM Agents & Simulation
-
-[**Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning**](https://arxiv.org/abs/2507.17842)  
-*Authors:* Yimeng Zhang, Tian Wang, **Jiri Gesi**, Ziyi Wang, Yuxuan Lu, Jiacheng Lin, Sinong Zhan, Vianne Gao, Ruochen Jiao, Junze Liu, Kun Qian, Yuxin Tang, Ran Xue, Houyu Zhang, Qingjun Cui, Yufan Guo, Dakuo Wang  
-**Summary:** Frames shopper simulation as two-stage RL—first generate rationales, then predict actions—with tailored rewards. Improves realism and controllability versus task-completion baselines and enables downstream evaluation/policy analysis.
-
----
-
-[**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**](https://arxiv.org/abs/2506.05606)  
-*Authors:* Ziyi Wang, Yuxuan Lu, Wenbo Li, Amirali Amini, Bo Sun, Yakov Bart, Weimin Lyu, **Jiri Gesi**, Tian Wang, Jing Huang, Yu Su, Upol Ehsan, Malihe Alikhani, Toby Jia-Jun Li, Lydia Chilton, Dakuo Wang  
-**Summary:** A public dataset pairing user personas, browser observations, fine-grained web actions, and just-in-time rationales. Establishes benchmarks for next-action/rationale prediction and digital-twin evaluation.
-
----
-
-[**Prompting is Not All You Need! Evaluating LLM Agent Simulation Methodologies with Real-World Online Customer Behavior Data**](https://arxiv.org/abs/2503.20749)  
-*Authors:* Yuxuan Lu, Jing Huang, Yan Han, Bingsheng Yao, Sisong Bei, **Jiri Gesi**, Yaochen Xie, Qi He, Dakuo Wang  
-**Summary:** Evaluates LLMs on web action generation using real shopping behavior data. Shows fine-tuning with real trajectories significantly outperforms prompting alone, and adding synthesized reasoning traces further improves accuracy.
-
----
-
-[**LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-Based Shopping Assistants?**](https://arxiv.org/abs/2509.21501)  
-*Authors:* Lu Sun, Shihan Fu, Bingsheng Yao, Yuxuan Lu, Wenbo Li, Hansu Gu, **Jiri Gesi**, Jing Huang, Chen Luo, Dakuo Wang  
-**Summary:** Combines a large-scale human study with persona-grounded “digital-twin” simulation. Shows simulations can mirror real-world task outcomes and UX dimensions, enabling faster and cheaper iteration on shopping assistants.
-
----
-
-[**Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation**](https://arxiv.org/abs/2507.21028)  
-*Authors:* Jiaju Chen, Yuxuan Lu, Xiaojie Wang, Huimin Zeng, Jing Huang, **Jiri Gesi**, Ying Xu, Bingsheng Yao, Dakuo Wang  
-**Summary:** Proposes **MAJ-Eval**—multi-persona evaluator agents that debate and aggregate judgments. Produces evaluations more aligned with expert ratings than typical automatic metrics in domains like education and medicine.
-
----
-
-[**UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents**](https://arxiv.org/abs/2504.09407)  
-*Authors:* Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Jessie Wang, Yang Li, **Jiri Gesi**, Qi He, Toby Jia-Jun Li, Dakuo Wang  
-**Summary:** A practical framework to simulate UX studies before recruiting participants. Generates personas and browsing agents, logs quantitative traces/interviews, and provides replays to help teams iterate rapidly on study design.
-
-
----
-
-## 🌐 Community Service  
-
-**Conference Reviews (ML):** EMNLP 2025, 2024; ICML 2025, 2024; NeurIPS 2025, 2024, 2023; ICLR 2025, 2024; TIST 2024; WWW 2024; SIGIR 2024.  
-**Conference Reviews (Software Engineering):** TOSEM 2025, 2024, 2023; MSR 2024, 2023; ASE 2024, 2023; SEA4DQ 2024; ESE 2021.  
-**Program Committee / Organizing Roles:** PROMISE 2025; ASE 2024; MSR 2024; SEA4DQ 2024; AIware 2024.
+#### LLM Agents
+Building **practical agents**: the **OPeRA** shopping-behavior dataset, **Shop-R1** and VLM shopping agents, and **multi-agent** evaluators for agent systems.
+</div>
+</div>
+</section>

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.owner.name }}{% if page.role %} · {{ page.role }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<meta property="og:title" content="{{ site.owner.name }} · {{ page.role }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:image" content="https://jirigesi.github.io/images/og-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://jirigesi.github.io/">
+<meta property="og:type" content="profile">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/images/{{ site.owner.avatar }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/site.css">
+<script>document.documentElement.classList.add('js')</script>
+</head>
+<body>
+
+<div class="backdrop" aria-hidden="true">
+  <span class="blob blob-a"></span>
+  <span class="blob blob-b"></span>
+  <span class="blob blob-c"></span>
+</div>
+
+<div class="wall" aria-hidden="true">
+  <div class="wall-plane">
+    {% for i in (1..60) %}<span class="tile"></span>{% endfor %}
+  </div>
+</div>
+
+<nav class="topnav glass" aria-label="Sections">
+  <a class="topnav-name" href="#top">{{ site.owner.name }}</a>
+  <div class="topnav-links">
+    <a href="#experience">Experience</a>
+    <a href="#research">Research</a>
+    <a href="#papers">Papers</a>
+  </div>
+</nav>
+
+<div class="page" id="top">
+<header class="hero glass">
+  <img class="hero-photo" src="/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }}">
+  <div class="hero-text">
+    <h1>{{ site.owner.name }}</h1>
+    <p class="hero-role">{{ page.role }}</p>
+    <p class="hero-tagline">{{ page.tagline }}</p>
+    <p class="hero-prev"><span>Previously</span> {{ page.previously | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+    <div class="hero-links">
+      {% for link in page.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</header>
+
+<main>
+<section id="experience">
+  <h2>Experience</h2>
+  <ol class="timeline">
+    {% for e in page.experience %}
+    <li class="stop{% if forloop.first %} is-now{% endif %}">
+      <span class="stop-dot" aria-hidden="true"></span>
+      <div class="stop-body">
+        <p class="stop-head">
+          {% if e.url %}<a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.org }}</a>{% else %}<strong>{{ e.org }}</strong>{% endif %}
+          {% if e.when %}<span class="stop-when">{{ e.when }}</span>{% endif %}
+        </p>
+        <p class="stop-role">{{ e.role }}</p>
+        <p class="stop-note">{{ e.note | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+{{ content }}
+
+<section id="papers" class="reveal">
+  <h2>Selected papers</h2>
+  {% assign groups = site.data.papers | group_by: "group" %}
+  {% for g in groups %}
+  <h3>{{ g.name }}</h3>
+  <ol class="papers">
+    {% for p in g.items %}
+    <li class="paper">
+      <span class="paper-year">{{ p.year }}</span>
+      <div class="paper-body">
+        <a class="paper-title" href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+        {% if p.authors_short %}
+        <details class="paper-authors">
+          <summary>{{ p.authors_short | replace: "Jiri Gesi", "<strong>Jiri Gesi</strong>" }}</summary>
+          <p>{{ p.authors | replace: "**Jiri Gesi**", "<strong>Jiri Gesi</strong>" }}</p>
+        </details>
+        {% else %}
+        <p class="paper-authors">{{ p.authors | replace: "**Jiri Gesi**", "<strong>Jiri Gesi</strong>" }}</p>
+        {% endif %}
+        <div class="paper-summary">{{ p.summary | markdownify }}</div>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+  {% endfor %}
+</section>
+
+<section id="service" class="service reveal">
+  <h2>Service</h2>
+  {% for s in page.service %}
+  <p><strong>{{ s.label }}:</strong> {{ s.text }}</p>
+  {% endfor %}
+</section>
+</main>
+
+<footer>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}</footer>
+</div>
+
+<script>
+(function () {
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var items = document.querySelectorAll('.reveal');
+  if (reduce || !('IntersectionObserver' in window)) {
+    items.forEach(function (el) { el.classList.add('in'); });
+  } else {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+      });
+    }, { rootMargin: '0px 0px -8% 0px' });
+    items.forEach(function (el) { io.observe(el); });
+  }
+
+  // Glass wall drifts slower than the page; the nav firms up once scrolled
+  var plane = document.querySelector('.wall-plane');
+  var nav = document.querySelector('.topnav');
+  var ticking = false;
+  function onScroll() {
+    var y = window.scrollY;
+    if (!reduce && y < 700) plane.style.setProperty('--drift', (y * 0.35) + 'px');
+    nav.classList.toggle('scrolled', y > 40);
+    ticking = false;
+  }
+  window.addEventListener('scroll', function () {
+    if (!ticking) { ticking = true; requestAnimationFrame(onScroll); }
+  }, { passive: true });
+  onScroll();
+})();
+</script>
+</body>
+</html>
