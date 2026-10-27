@@ -5,9 +5,11 @@ description: "Jiri Gesi"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-<p class="page-role">Senior Researcher &middot; Microsoft Research</p>
+<p class="page-role">Co-founder &middot; <a href="https://voltspan.ai">Voltspan AI</a></p>
 
-I’m a **Senior Researcher at Microsoft Research**, focusing on **post-training large language models (LLMs)** and agents. Previously, I was an Applied Scientist at Amazon Store Foundation AI, where our post-trained LLMs were deployed to power a variety of Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
+I’m a **co-founder of [Voltspan AI](https://voltspan.ai)**. We build and run NVIDIA GPU clusters as the foundation for agent model training and agent clouds.
+
+Before Voltspan, I was a **Senior Researcher at Microsoft Research**, working on **post-training large language models (LLMs)** and agents. Before that, I was an Applied Scientist at Amazon Store Foundation AI, where our post-trained LLMs powered Amazon shopping applications such as personalization support, product re-ranking, and related LLM-powered experiences.
 
 <br>
 
